@@ -6,22 +6,22 @@ active: people
 
 <h2>Graduare Students at UH Manoa</h2>
 
-<li>Yi Hu</ li>
+<li>Yi Hu</li>
 <div class="floatright">
 <img src="images/cartoonCNEvo.png" width="300">
 </div>
 <div class="textfull" markdown="1">
 
-<li>Hannah Shelton</ li>
+<li>Hannah Shelton</li>
 
 <h2>Research and Technical Staff at UH Manoa</h2>
-<li>Harold Garbeil</ li>
-<li>Linda Martel</ li>
-<li>Mario Williamson</ li>
+<li>Harold Garbeil</li>
+<li>Linda Martel</li>
+<li>Mario Williamson</li>
 
 <h2>Research Staff at Argonne National Lab</h2>
-<li>Dr. Jin S. Zhang</ li>
-<li>Dr. Dongzhou Zhang</ li>
+<li>Dr. Jin S. Zhang</li>
+<li>Dr. Dongzhou Zhang</li>
 
 
 <div class="box" markdown="1">
