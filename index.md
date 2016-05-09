@@ -5,7 +5,7 @@ active: home
 ---
 
 <div class="splitleft">
-<img class="left" src="images/buddist_temple.jpg" alt="At a Buddist Temple on East Oahu">
+<img class="left" src="images/buddist_temple_small.jpg" alt="At a Buddist Temple in East Oahu">
 </div>
 
 
