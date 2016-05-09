@@ -5,6 +5,7 @@ active: Teaching
 ---
 
 <div class="box" markdown="1">
+##Mineral-Rock-Melts Reading Group
 
 ###[G&G 301 -- (*Fall 2015*)]
 (teaching/EARTH535/index.html)
