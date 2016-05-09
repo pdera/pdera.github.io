@@ -5,6 +5,6 @@ active: cv
 
 ###[(click here to download the pdf version)](docs/asw-cv.pdf) 
 
-{% include pf-newpar.html %}
+{% include newpar.html %}
 
 {% include pd-cv.html %}
