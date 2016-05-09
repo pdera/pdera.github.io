@@ -1,13 +1,11 @@
 # Site settings
-title: Aaron S. Wolf's homepage
-email: aswolf@umich.edu
+title: Przemek Dera's homepage
+email: pdera@hawaii.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Aaron S. Wolf is a Turner Postdoctoral Scholar in the Earth and Environmental
-  Sciences Department at the University of Michigan. This is his homepage.
+  Przemek Dera is an Associate Researcher (Associate Professor) At the Hawaii Institute of Geophysics and Planetology. This is his homepage.
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username:  aswolf
+github_username:  pdera
 
 # Build settings
 # NOTE MUST BE KRAMDOWN for markdown blocks within html

@@ -5,7 +5,7 @@ active: home
 ---
 
 <div class="splitleft">
-<img class="left" src="images/FallenTreeCloseupSmall.jpg" alt="Hiking in a Cloud Forest in Nicaragua">
+<img class="left" src="images/buddist_temple.jpg" alt="At a Buddist Temple on East Oahu">
 </div>
 
 
