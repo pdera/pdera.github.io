@@ -25,6 +25,12 @@
             <li><a href="/index.html">Home</a></li>
             {% endif %}
 
+            {% if page.active == "people" %}
+            <li class="selected"><a href="/people.html">People</a></li>
+            {% else %}
+            <li><a href="/people.html">People</a></li>
+            {% endif %}
+
             {% if page.active == "facilities" %}
             <li class="selected"><a href="/facilities.html">Facilities</a></li>
             {% else %}
