@@ -1,0 +1,6 @@
+_site
+.sass-cache
+
+# vim temp files
+*.swp
+*.swo
