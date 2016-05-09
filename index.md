@@ -11,8 +11,8 @@ active: home
 
 <div class="splitright">
 <div class="box">
-I am a Assistant Research Scientist in the Earth and Environmental Sciences Department at the University of Michigan.
-My research interests are broad, but focus mainly on understanding the thermodynamics and evolution of the Earth's mantle, now and early in Earth's history.
+I am an Associate Professor in the Hawaii Institute of Geophysics and Planetology at the University of Hawaii at Manoa.
+My research interests are focus mainly on understanding the effects of extreme pressure and temperature on the structure and properties of materials in the context of Deep Earth geophysics and materials science.
 </div>
 </div>
 
@@ -21,6 +21,6 @@ My research interests are broad, but focus mainly on understanding the thermodyn
 <p></p>
 
 <div class="box" markdown="1">
-####NOTE: the contents of this website are fully available for download and re-use as a template at its github repo found at [github.com/aswolf/aswolf.github.io](https://github.com/aswolf/aswolf.github.io).
+NOTE: the contents of this website are fully available for download and re-use as a template at its github repo found at [github.com/pdera/pdera.github.io](https://github.com/pdera/pdera.github.io).
 </div>
 
