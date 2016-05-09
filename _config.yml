@@ -10,5 +10,6 @@ github_username:  pdera
 # Build settings
 # NOTE MUST BE KRAMDOWN for markdown blocks within html
 markdown: kramdown
-pygments: true
+highlighter: rouge
+#pygments: true
 permalink:  /:categories/:title.html
