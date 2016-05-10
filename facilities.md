@@ -67,7 +67,7 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 
 <div class="floatleft">
-<img src="images/Advance2" width="328">
+<img src="../images/Advance2.jpg" width="328">
 </div>
 
 <div class="textfull" markdown="1">
@@ -76,7 +76,7 @@ From the extracted volumes, I construct high temperature equations of state for 
 Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
 
 <div class="floatright">
-<img src="images/Venture2" width="390">
+<img src="../images/Venture2.jpg" width="390">
 </div>
 
 </div>
