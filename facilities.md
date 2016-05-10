@@ -10,12 +10,12 @@ I approach this topic with a variety of techniques, including diamond anvil cell
 I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
-<div class="splitright">
+<div class="floatright">
 <div class="box">
-<h3>Sample Preparation Lab</h3>
-<h3>Raman Spectroscopy Lab</h3>
-<h3>X-ray Atlas Lab</h3>
-<h3>Partmership for eXtreme Xtallography</h3>
+<h4>Sample Preparation Lab</h4>
+<h4>Raman Spectroscopy Lab</h4>
+<h4>X-ray Atlas Lab</h4>
+<h4>Partmership for eXtreme Xtallography</h4>
 </div>
 </div>
 <div class="clear"> </div>
