@@ -11,16 +11,12 @@ I have also done work on determining the interior properties of extrasolar plane
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
 <div class="box" markdown="1">
-###Open Projects found at [github.com/aswolf](http://github.com/aswolf)
-<div class="floatleft">
-<a href="https://github.com"><img src="images/GitHub_Logo.png"  width="100"></a>
-</div>
-
-In support of the goals of Open Science, to make research more accessible and reproducible (i.e. more scientific), I have begun posting many of my projects on my github site.
-
+width="100px"
+<h2>Sample Preparation Lab</h2>
+<h2>Raman Spectroscopy Lab</h2>
+<h2>X-ray Atlas Lab</h2>
+<h2>Partmership for eXtreme Xtallography</h2>
 <div class="clear"> </div>
-
-####I encourage you to take a look and think about what you can do to make your science more open!
 </div>
 
 
