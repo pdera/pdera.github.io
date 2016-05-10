@@ -6,7 +6,7 @@ active: facilities
 <div class="floatright">
 <div class="box">
 <h3>Table of Contents:</h3>
-[<h4>Sample Preparation Lab</h4>](#SamplePrepLab)
+<h4>[Sample Preparation Lab](#SamplePrepLab)</h4>
 <h4>Raman Spectroscopy Lab</h4>
 <h4>X-ray Atlas Lab</h4>
 <h4>Partmership for eXtreme Xtallography</h4>
