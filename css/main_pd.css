@@ -40,7 +40,7 @@ code.has-jax {font: inherit;
 	height:77px}			  
 			  
 /* Header and navigation styles */
-#container {width:760px; margin:20px auto; padding:1px 0; text-align:left; background:#ffffff; color:#303030;}
+#container {width:760px; margin:20px auto; padding:1px 0; text-align:left; background:#ffffff url=('../images/Vanadinite__R050189__Sample__Photo__19536__M.jpg') top left; color:#303030;}
 #header {height:201px; width:758px; margin:0 1px 1px 1px; background:#AFB595; color:#444;}
 #header h1 {padding:40px 0 0 420px; font-size:3.4em; color:#552316; letter-spacing:-2px; font-weight:bold;}
 #header h2 {margin:20px 0 0 430px; font-size:1.4em; color:#444; letter-spacing:-1px; font-weight:normal;}
