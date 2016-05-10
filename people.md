@@ -6,13 +6,26 @@ active: people
 
 <h2>Graduare Students at UH Manoa</h2>
 
-<li>Yi Hu</li>
+<h3>Yi Hu</h3>
 <div class="floatright">
-<img src="images/cartoonCNEvo.png" width="300">
+<img src="images/YiHu.jpg" width="200">
 </div>
 <div class="textfull" markdown="1">
+Yi’s theses research is focused on understanding metastable polymorphism in pyroxene minerals in the context of subduction zone modeling. Yi uses advanced crystallographic methods and synchrotron diffraction, as well as DFT calculations and phase equilibria modeling to study previously unknown discontinuous transformations in natural mantle pyroxenes and model synthetic end-members. Within this project we collaborate with several other CDAC-supported groups, including Princeton University, University of Arizona and Northwestern University.  
+</div>
+<div class="clear"> </div>
 
-<li>Hannah Shelton</li>
+
+<h3>Hannah Shelton</h3>
+<div class="floatright">
+<img src="images/HannahShelton.jpg" width="200">
+</div>
+<div class="textfull" markdown="1">
+Hannah’s thesis research focuses on understanding the role and consequences of hydrogen bonds in controlling compressional behavior and phase transitions in solids. Hannah uses advanced crystallographic methods, including time-resolved synchrotron diffraction and pressure-ramp approach to study two classes of materials: (a) organic solids that have similar molecular structures, and packing patterns, but differ in hydrogen bond formation ability and (b) isostructural couples of inorganic solids that are fully hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, including University of Arizona, Northwestern University and University of Alabama. 
+
+</div>
+<div class="clear"> </div>
+
 
 <h2>Research and Technical Staff at UH Manoa</h2>
 <li>Harold Garbeil</li>
