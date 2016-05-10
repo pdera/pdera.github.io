@@ -16,11 +16,11 @@ My research interests are focused mainly on understanding the effects of extreme
 </div>
 </div>
 
-<div class="clear"></div>
 
-<p></p>
-
-<div class="box" markdown="1">
-NOTE: the contents of this website are fully available for download and re-use as a template at its github repo found at [github.com/pdera/pdera.github.io](https://github.com/pdera/pdera.github.io).
+<div class="splitright">
+<div class="box">
+<h2>News</h2>
+{% include pd-news-short.html %}</div>
 </div>
 
+<div class="clear"></div>
