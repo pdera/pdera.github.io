@@ -27,7 +27,8 @@ code.has-jax {font: inherit;
               color:#303030 }
 
 #img1
-{	background:#ffffff top left no-repeat;
+{	float:left;
+	background:#ffffff top left no-repeat;
 	width:400px;
 	height:122px}			  
 			  
