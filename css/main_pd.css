@@ -104,6 +104,7 @@ code.has-jax {font: inherit;
 .floatleft {float:left;margin-right: 10px;}
 .floatright {float:right;margin-left: 10px;}
 .caption {text-align:right; font-style: italic;}
+.splitcenter {float:center; width:50%;}
 .splitleft {float:left; width:58%;}
 .splitright {float:right; width:38%;}
 .clear {clear:both;}
