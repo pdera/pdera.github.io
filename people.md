@@ -21,43 +21,37 @@ I approach this topic with a variety of techniques, including diamond anvil cell
 I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
-<h3><a name="spl"></a>Yi Hu</h3>
+<h2><a name="gs"></a>Graduate Students</h2>
+
+
+<h3>Yi Hu, PhD Student</h3>
 <div class="floatleft">
 <img src="images/YiHu.jpg" width="200">
 </div>
 
 <div class="textfull" markdown="1">
-Determining the evolution of the Earth's mantle since formation is a crucial topic to understanding its present state.
-This is particularly true given that temperature and composition are often highly degenerate in seismic observations of the mantle.
-It has long been thought that the Earth likely went through one or more periods in which the mantle was predominantly or entirely molten.
-This magma ocean scenario is a simple consequence of the extremely large energies involved in terrestrial planet accretion.
-Recent experimental and theoretical work have shown that the properties of high pressure silicates are rather different from what was previously supposed, implying that crystallization of a magma ocean proceeds from the center outward rather than from the bottom up.
-This shift in our understanding is a consequence of the depths of both crystallization and neutral crystal buoyancy.
-Since these parameters are defined by composition-dependent equilibrium conditions, it is important to develop a simple model of silicate liquids that allows rapid determination of equations of state in a large chemically relevant system.
-For this project, I have developed the Coordinated Hard Sphere Mixture (CHaSM), which can rapidly predict the behavior of complex silicate liquids over wide ranges in Temperature, Pressure, and Composition.
-I am currently applying this general model to a simplified chemical representation of the Earth's mantle with an eye toward later using it to determine the chemical and thermal evolution of a planetary magma ocean.
-(*The first CHaSM paper was developed together with Paul Asimow and David Stevenson at Caltech and is currently under review at Geochimica et Cosmochimica Acta, see [publications](publications.html). Further work is underway to extend the model to a wider chemical system.*)
+Yi’s theses research is focused on understanding metastable polymorphism in pyroxene minerals in the context of 
+subduction zone modeling. Yi uses advanced crystallographic methods and synchrotron diffraction, as well as DFT 
+calculations and phase equilibria modeling to study previously unknown discontinuous transformations in natural 
+mantle pyroxenes and model synthetic end-members. Within this project we collaborate with several other CDAC-supported 
+groups, including Princeton University, University of Arizona and Northwestern University.  
 </div>
 
 <div class="clear"> </div>
 <hl>
 
-<h3><a name="spl"></a>Hannah Shelton</h3>
+<h3>Hannah Shelton</h3>
 <div class="floatleft">
 <img src="images/HannahShelton.jpg" width="200">
 </div>
 
 <div class="textfull" markdown="1">
-Determining the evolution of the Earth's mantle since formation is a crucial topic to understanding its present state.
-This is particularly true given that temperature and composition are often highly degenerate in seismic observations of the mantle.
-It has long been thought that the Earth likely went through one or more periods in which the mantle was predominantly or entirely molten.
-This magma ocean scenario is a simple consequence of the extremely large energies involved in terrestrial planet accretion.
-Recent experimental and theoretical work have shown that the properties of high pressure silicates are rather different from what was previously supposed, implying that crystallization of a magma ocean proceeds from the center outward rather than from the bottom up.
-This shift in our understanding is a consequence of the depths of both crystallization and neutral crystal buoyancy.
-Since these parameters are defined by composition-dependent equilibrium conditions, it is important to develop a simple model of silicate liquids that allows rapid determination of equations of state in a large chemically relevant system.
-For this project, I have developed the Coordinated Hard Sphere Mixture (CHaSM), which can rapidly predict the behavior of complex silicate liquids over wide ranges in Temperature, Pressure, and Composition.
-I am currently applying this general model to a simplified chemical representation of the Earth's mantle with an eye toward later using it to determine the chemical and thermal evolution of a planetary magma ocean.
-(*The first CHaSM paper was developed together with Paul Asimow and David Stevenson at Caltech and is currently under review at Geochimica et Cosmochimica Acta, see [publications](publications.html). Further work is underway to extend the model to a wider chemical system.*)
+Hannah’s thesis research focuses on understanding the role and consequences of hydrogen bonds in controlling compressional 
+behavior and phase transitions in solids. Hannah uses advanced crystallographic methods, including time-resolved synchrotron 
+diffraction and pressure-ramp approach to study two classes of materials: (a) organic solids that have similar molecular structures, 
+and packing patterns, but differ in hydrogen bond formation ability and (b) isostructural couples of inorganic solids that are fully 
+hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
+including University of Arizona, Northwestern University and University of Alabama. 
 </div>
 
 <div class="clear"> </div>
