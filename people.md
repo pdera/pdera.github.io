@@ -76,7 +76,7 @@ groups, including Princeton University, University of Arizona and Northwestern U
 
 <h3>Dr. Dongzhou Zhang, COMPRES Technology Officer</h3>
 <div class="floatleft">
-<img src="images/JinZhang.jpg" width="200">
+<img src="images/DongzhouZhang.jpg" width="200">
 </div>
 
 <div class="textfull" markdown="1">
