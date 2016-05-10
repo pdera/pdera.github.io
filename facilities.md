@@ -4,7 +4,7 @@ title: Facilities
 active: facilities
 ---
 <div class="floatright">
-<div class="box">
+<div class="box" markdown="1">
 <h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
 <h4>Raman Spectroscopy Lab</h4>
