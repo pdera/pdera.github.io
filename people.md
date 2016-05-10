@@ -38,7 +38,7 @@ groups, including Princeton University, University of Arizona and Northwestern U
 </div>
 
 <div class="clear"> </div>
-<hl>
+<br />
 
 <h3>Hannah Shelton, PhD Student</h3>
 <div class="floatleft">
