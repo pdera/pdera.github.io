@@ -7,7 +7,7 @@ active: socialmedia
 <li><h3>LinkedIn</h3></li>
 
 <div class="floatright">
-<img src="images/LinkedIn.jpg" width="200">
+<a href="http://scholar.google.com/citations?hl=en&user=ahzkJqcAAAAJ" target="_blank"><img src="images/LinkedIn.jpg" width="200"></a>
 </div>
 
 <div class="clear"> </div>
