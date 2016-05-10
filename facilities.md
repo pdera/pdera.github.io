@@ -5,6 +5,7 @@ active: facilities
 ---
 <div class="floatright">
 <div class="box">
+<h3>Table of Contents</h3>
 <h4>Sample Preparation Lab</h4>
 <h4>Raman Spectroscopy Lab</h4>
 <h4>X-ray Atlas Lab</h4>
@@ -19,11 +20,11 @@ I approach this topic with a variety of techniques, including diamond anvil cell
 I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
-
-##Simplified Modeling of Silicate Liquids at Mantle Conditions 
-<div class="floatright">
+<h3>Diamond Anvil Cell Sample Preparation Lab</h3>
+<div class="floatleft">
 <img src="images/cartoonCNEvo.png" width="300">
 </div>
+
 <div class="textfull" markdown="1">
 Determining the evolution of the Earth's mantle since formation is a crucial topic to understanding its present state.
 This is particularly true given that temperature and composition are often highly degenerate in seismic observations of the mantle.
@@ -36,14 +37,16 @@ For this project, I have developed the Coordinated Hard Sphere Mixture (CHaSM), 
 I am currently applying this general model to a simplified chemical representation of the Earth's mantle with an eye toward later using it to determine the chemical and thermal evolution of a planetary magma ocean.
 (*The first CHaSM paper was developed together with Paul Asimow and David Stevenson at Caltech and is currently under review at Geochimica et Cosmochimica Acta, see [publications](publications.html). Further work is underway to extend the model to a wider chemical system.*)
 </div>
+
 <div class="clear"> </div>
 
 
-##High P-T Diamond Anvil Cell Experiments
+<h3>High Pressue and Temperature Raman Spectroscopy Lab</h3>
 <div class="floatleft">
-<img src="images/dac_diamonds.jpg" width="300">
-<div class="caption"> (image from Steve Jacobsen) </div>
+<img src="images/cartoonCNEvo.png" width="300">
 </div>
+
+
 <div class="textfull" markdown="1">
 Iron-bearing magnesium silicate perovskite (recently named Bridgmanite) is thought to be the dominant mineral in the Earth's lower mantle, occupying ~80% by volume.
 This makes it one of the most crucial phases to understanding the structure and long-term evolution of the Earth.
@@ -56,3 +59,15 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 </div>
 <div class="clear"></div>
 
+<h3>X-ray Atlas Diffraction Lab</h3>
+<div class="floatleft">
+<img src="images/cartoonCNEvo.png" width="300">
+</div>
+
+<div class="textfull" markdown="1">
+The resulting powder diffraction profiles are then fit to obtain perovskite volumes as a function of pressure and temperature.
+From the extracted volumes, I construct high temperature equations of state for both Fe-bearing and Fe-free compositions, comparing with careful reanalysis of literature data.
+Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
+
+</div>
+<div class="clear"></div>
