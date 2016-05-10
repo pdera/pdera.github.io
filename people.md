@@ -40,7 +40,7 @@ groups, including Princeton University, University of Arizona and Northwestern U
 <div class="clear"> </div>
 <hl>
 
-<h3>Hannah Shelton</h3>
+<h3>Hannah Shelton, PhD Student</h3>
 <div class="floatleft">
 <img src="images/HannahShelton.jpg" width="200">
 </div>
