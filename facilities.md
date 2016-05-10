@@ -10,14 +10,15 @@ I approach this topic with a variety of techniques, including diamond anvil cell
 I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
-<div class="box" markdown="1">
-width="100px"
-<h2>Sample Preparation Lab</h2>
-<h2>Raman Spectroscopy Lab</h2>
-<h2>X-ray Atlas Lab</h2>
-<h2>Partmership for eXtreme Xtallography</h2>
-<div class="clear"> </div>
+<div class="splitright">
+<div class="box">
+<h3>Sample Preparation Lab</h3>
+<h3>Raman Spectroscopy Lab</h3>
+<h3>X-ray Atlas Lab</h3>
+<h3>Partmership for eXtreme Xtallography</h3>
 </div>
+</div>
+<div class="clear"> </div>
 
 
 ##Simplified Modeling of Silicate Liquids at Mantle Conditions 
