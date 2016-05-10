@@ -74,7 +74,7 @@ groups, including Princeton University, University of Arizona and Northwestern U
 <div class="clear"> </div>
 <br />
 
-<h3>Dr. Dongzhou Zhang, COMPRES Technology Officer</h3>
+<h3>Dr. Dongzhou Zhang, PX^2 Beamline Scientist</h3>
 <div class="floatleft">
 <img src="images/DongzhouZhang.jpg" width="200">
 </div>
