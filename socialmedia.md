@@ -31,7 +31,4 @@ active: socialmedia
 <div class="clear"> </div>
 <br />
 
-<div class="splitcenter">
-<iframe src="https://youtu.be/tM0sErJ6rKg"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tM0sErJ6rKg" frameborder="0" allowfullscreen></iframe>
