@@ -59,10 +59,10 @@ The resulting powder diffraction profiles are then fit to obtain perovskite volu
 From the extracted volumes, I construct high temperature equations of state for both Fe-bearing and Fe-free compositions, comparing with careful reanalysis of literature data.
 Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
 (*This work was carried out in close collaboration with Jennifer Jackson at Caltech, and will be submitted soon to EPSL.*)
+---
 </div>
 <div class="clear"></div>
 <hl>
-
 
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 
