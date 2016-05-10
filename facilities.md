@@ -7,9 +7,9 @@ active: facilities
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
-<h4>Raman Spectroscopy Lab</h4>
-<h4>X-ray Atlas Lab</h4>
-<h4>Partmership for eXtreme Xtallography</h4>
+[Raman Spectroscopy Lab](#rsl)
+[X-ray Atlas Lab](xal)
+[Partmership for eXtreme Xtallography](px2)
 </div>
 </div>
 
@@ -20,8 +20,7 @@ I approach this topic with a variety of techniques, including diamond anvil cell
 I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
-<a name="spl"></a>
-<h3>Diamond Anvil Cell Sample Preparation Lab</h3>
+<h3><a name="spl"></a>Diamond Anvil Cell Sample Preparation Lab</h3>
 <div class="floatleft">
 <img src="images/cartoonCNEvo.png" width="300">
 </div>
@@ -42,7 +41,7 @@ I am currently applying this general model to a simplified chemical representati
 <div class="clear"> </div>
 
 
-<h3>High Pressue and Temperature Raman Spectroscopy Lab</h3>
+<h3><a name="rsl"></a>High Pressue and Temperature Raman Spectroscopy Lab</h3>
 <div class="floatleft">
 <img src="images/cartoonCNEvo.png" width="300">
 </div>
@@ -60,7 +59,7 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 </div>
 <div class="clear"></div>
 
-<h3>X-ray Atlas Diffraction Lab</h3>
+<h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 <div class="floatleft">
 <img src="images/cartoonCNEvo.png" width="300">
 </div>
@@ -72,3 +71,17 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 
 </div>
 <div class="clear"></div>
+
+<h3><a name="px2"></a>Partnership for eXtreme Xtallography</h3>
+<div class="floatleft">
+<img src="images/cartoonCNEvo.png" width="300">
+</div>
+
+<div class="textfull" markdown="1">
+The resulting powder diffraction profiles are then fit to obtain perovskite volumes as a function of pressure and temperature.
+From the extracted volumes, I construct high temperature equations of state for both Fe-bearing and Fe-free compositions, comparing with careful reanalysis of literature data.
+Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
+
+</div>
+<div class="clear"></div>
+
