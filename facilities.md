@@ -42,7 +42,7 @@ I am currently applying this general model to a simplified chemical representati
 </div>
 
 <div class="clear"> </div>
-
+<hl>
 
 <h3><a name="rsl"></a>High Pressue and Temperature Raman Spectroscopy Lab</h3>
 <div class="floatleft">
@@ -61,6 +61,8 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 (*This work was carried out in close collaboration with Jennifer Jackson at Caltech, and will be submitted soon to EPSL.*)
 </div>
 <div class="clear"></div>
+<hl>
+
 
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 <div class="floatleft">
@@ -74,6 +76,8 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 
 </div>
 <div class="clear"></div>
+
+<hl>
 
 <h3><a name="px2">Partnership for eXtreme Xtallography</a></h3>
 <div class="floatleft">
