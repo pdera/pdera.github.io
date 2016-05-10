@@ -5,7 +5,7 @@ For more information, see http://andreasviklund.com/templates/andreas08/
 
 /* Body and tag styles */
 * {margin:0; padding:0;}
-body {font:76% Verdana,Tahoma,Arial,sans-serif; line-height:1.4em; text-align:center; color:#303030; background:#949fff;}
+body {font:76% Verdana,Tahoma,Arial,sans-serif; line-height:1.4em; text-align:center; color:#303030; background:url('../images/Vanadinite__R050189__Sample__Photo__19536__M.jpg') ;}//#949fff
 body {
     overflow: scroll;
 }
