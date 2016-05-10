@@ -62,7 +62,13 @@
             {% else %}
             <li><a href="/teaching.html">Teaching</a></li>
             {% endif %}
-          
+
+            {% if page.active == "Social Media" %}
+            <li class="selected"><a href="/socialmedia.html">Social Media</a></li>
+            {% else %}
+            <li><a href="/socialmedia.html">Social Media</a></li>
+            {% endif %}
+			
         </ul>
     </div>
 
