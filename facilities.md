@@ -86,7 +86,7 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 
 <h3><a name="px2">Partnership for eXtreme Xtallography</a></h3>
 <div class="floatleft">
-<img src="images/cartoonCNEvo.png" width="300">
+<img src="images/px2.jpg" width="400">
 </div>
 
 <div class="textfull" markdown="1">
