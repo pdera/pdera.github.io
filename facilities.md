@@ -6,7 +6,7 @@ active: facilities
 <div class="floatright">
 <div class="box">
 <h3>Table of Contents:</h3>
-[Sample Preparation Lab](#samplepreplab)
+[Sample Preparation Lab](#spl)
 <h4>Raman Spectroscopy Lab</h4>
 <h4>X-ray Atlas Lab</h4>
 <h4>Partmership for eXtreme Xtallography</h4>
@@ -20,7 +20,8 @@ I approach this topic with a variety of techniques, including diamond anvil cell
 I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
-<h3><a name="samplepreplab">Diamond Anvil Cell Sample Preparation Lab</a></h3>
+<a name="spl"></a>
+<h3>Diamond Anvil Cell Sample Preparation Lab</h3>
 <div class="floatleft">
 <img src="images/cartoonCNEvo.png" width="300">
 </div>
