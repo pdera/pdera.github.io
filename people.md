@@ -6,9 +6,9 @@ active: people
 <div class="floatright">
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
-[Graduate Students](#spl)
+[Graduate Students](#gs)
 <br>
-[Research Scientists](#rsl)
+[Research Scientists](#rs)
 <br>
 [Technical and Engineering Staff](#xal)
 </div>
@@ -22,7 +22,6 @@ I have also done work on determining the interior properties of extrasolar plane
 Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
 
 <h2><a name="gs"></a>Graduate Students</h2>
-
 
 <h3>Yi Hu, PhD Student</h3>
 <div class="floatleft">
@@ -55,4 +54,38 @@ including University of Arizona, Northwestern University and University of Alaba
 </div>
 
 <div class="clear"> </div>
-<hl>
+<br />
+
+<h2><a name="rs"></a>Research Scientists</h2>
+
+<h3>Dr. Jin S. Zhang, COMPRES Technology Officer</h3>
+<div class="floatleft">
+<img src="images/JinZhang.jpg" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+Jin's theses research is focused on understanding metastable polymorphism in pyroxene minerals in the context of 
+subduction zone modeling. Yi uses advanced crystallographic methods and synchrotron diffraction, as well as DFT 
+calculations and phase equilibria modeling to study previously unknown discontinuous transformations in natural 
+mantle pyroxenes and model synthetic end-members. Within this project we collaborate with several other CDAC-supported 
+groups, including Princeton University, University of Arizona and Northwestern University.  
+</div>
+
+<div class="clear"> </div>
+<br />
+
+<h3>Dr. Dongzhou Zhang, COMPRES Technology Officer</h3>
+<div class="floatleft">
+<img src="images/JinZhang.jpg" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+Dongzhou's theses research is focused on understanding metastable polymorphism in pyroxene minerals in the context of 
+subduction zone modeling. Yi uses advanced crystallographic methods and synchrotron diffraction, as well as DFT 
+calculations and phase equilibria modeling to study previously unknown discontinuous transformations in natural 
+mantle pyroxenes and model synthetic end-members. Within this project we collaborate with several other CDAC-supported 
+groups, including Princeton University, University of Arizona and Northwestern University.  
+</div>
+
+<div class="clear"> </div>
+<br />
