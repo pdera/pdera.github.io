@@ -18,7 +18,7 @@ My research interests are focused mainly on understanding the effects of extreme
 
 
 <div class="splitright">
-<div class="box">
+<div class="box1">
 <h2>News</h2>
 {% include pd-news-short.html %}</div>
 </div>
