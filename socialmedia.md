@@ -10,11 +10,17 @@ active: socialmedia
 <img src="images/LinkedIn.jpg" width="200">
 </div>
 
+<div class="clear"> </div>
+<br />
+
 <li>ResearchGate</li>
 
 <div class="floatright">
 <img src="images/ResearchGate.jpg" width="200">
 </div>
+
+<div class="clear"> </div>
+<br />
 
 <li>Google Scholar</li>
 
