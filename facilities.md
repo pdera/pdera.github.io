@@ -6,10 +6,10 @@ active: facilities
 <div class="floatright">
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
-[Sample Preparation Lab](#spl)
-[Raman Spectroscopy Lab](#rsl)
-[X-ray Atlas Lab](xal)
-[Partmership for eXtreme Xtallography](px2)
+<li>[Sample Preparation Lab](#spl)</li>
+<li>[Raman Spectroscopy Lab](#rsl)</li>
+<li>[X-ray Atlas Lab](#xal)</li>
+<li>[Partmership for eXtreme Xtallography](#px2)</li>
 </div>
 </div>
 
