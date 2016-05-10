@@ -7,7 +7,7 @@ active: socialmedia
 <li><h3>LinkedIn</h3></li>
 
 <div class="floatright">
-<a href="https://www.linkedin.com/profile/view?id=204120842&trk=nav_responsive_tab_profile_pic" target="_blank"><img src="images/LinkedIn.jpg" width="200"></a>
+<a href="https://www.linkedin.com/in/przemek-dera-5a243958" target="_blank"><img src="images/LinkedIn.jpg" width="200"></a>
 </div>
 
 <div class="clear"> </div>
