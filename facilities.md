@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: facilities
 title: Facilities
 active: facilities
 ---
