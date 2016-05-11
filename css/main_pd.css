@@ -123,5 +123,9 @@ code.has-jax {font: inherit;
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
+	BORDER-RIGHT: medium none; 
+	BORDER-TOP: #cccccc 1px solid; 
+	BORDER-LEFT: medium none; 
+	BORDER-BOTTOM: medium none;
 	height: 1px;
 	background-color: #000080;} 
