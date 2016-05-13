@@ -4,7 +4,7 @@ title: Research
 active: research
 ---
 <div class="floatright">
-<img src="images/coverLRR.jpg" width="400">
+<img src="images/coverLRR.jpg" width="350">
 </div>
 
 <div class="textfull" markdown="1">
@@ -23,7 +23,7 @@ and chemical properties of minerals and are indispensible for building reliable 
  
 
 <div class="floatleft">
-<img src="images/coverDT.jpg" width="400">
+<img src="images/coverDT.jpg" width="350">
 </div>
 
 <div class="textfull" markdown="1">
