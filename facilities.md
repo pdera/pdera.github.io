@@ -76,9 +76,48 @@ fiber optics transport with the Bruker D8 Venture unit of the X-ray Atlas.
 </div>
 
 <div class="textfull" markdown="1">
-The resulting powder diffraction profiles are then fit to obtain perovskite volumes as a function of pressure and temperature.
-From the extracted volumes, I construct high temperature equations of state for both Fe-bearing and Fe-free compositions, comparing with careful reanalysis of literature data.
-Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
+Experiments that allow probing the structure, behavior and physical properties of Earth forming 
+minerals at simultaneous high pressure and temperature (HPHT) are one of primary indirect sources of 
+information about the deep interior of our planet, indispensable in creating reliable geophysical models. 
+Crystallographic, diffraction-based experiments at HPHT play a special role in mineral physics, being the only 
+reliable source of information about changes in the crystal structure, which controls and determines physical 
+properties of minerals as a function of depth. HPHT experiments with in situ X-ray diffraction are challenging, 
+and have traditionally been limited to synchrotron labs. Even at synchrotrons, the more precise and sensitive 
+single-crystal experiments, capable of detecting the most subtle structural discontinuities and symmetry changes 
+at HPHT have been extremely rare, limiting our ability to probe behavior of more complex silicate minerals at 
+realistic mantle conditions. X-ray Atlas is novel state of the art X-ray instrument optimized for in situ 
+laboratory-based single-crystal X-ray diffraction experiments in resistively heated diamond anvil cell, capable of 
+exploring PT conditions relevant for the Earth upper mantle, transition zone and some of the lower mantle 
+(up to 50 GPa and 1000o C, corresponding to depths greater than 1000 km). X-ray Atlas will also provide the much 
+needed and currently non-existent X-ray diffraction capabilities for the HIGP high pressure lab and will be 
+a valuable resource to a number of geology-focused faculty and students at the University of Hawaii. 
+We acuired and are awaiting delivery of a a system composed of two commercial X-ray diffractometers, Bruker D8 Venture 
+single crystal instrument, to serve as a base platform for 
+development the X-Ray Atlas system, and Bruker D8 Advance high resolution powder instrument. The Venture diffractometer 
+will retain its original full functionality after the planned modification, but a range of new unique capabilities 
+will be added by (T1) integrating a parallel kinematics hexapod robotic device as an alternative sample mounting 
+platform for HPHT diamond anvil cells and thin sections. In addition to the hexapod, we will (T2) incorporate a fiber 
+optics transport to the sample viewing system of the Venture diffractometer, which will enable collection of ruby fluorescence 
+and Raman signal using an existing standalone Princeton Instruments spectroscopy system, while the sample is mounted on 
+the diffractometer. The final instrument modification will be (T3) integration of photodiode detector into the X-ray 
+beam stop assembly, which will be utilized for automated X-ray absorption/transmission scanning.
+Intellectual Merits: This project is centered around (i) creating unique experimental capabilities that will enable in house 
+research focused on crystallographic aspects of mineral physics at conditions that are currently inaccessible to other 
+existing in house instruments (ii) creating new scientific opportunities for studying complex mineral systems of geophysical 
+or environmental importance, with unprecedented sensitivity to detection of subtle, but possibly important discontinuous 
+transformations and unambiguous determination of crystal structures of nonquenchable phases, (iii) enable in house experiments 
+relevant to the on-going NSF EAR Geophysics project  EAR 1417024 on metastable transformation of pyroxenes in subducting 
+slabs. 
+Broader Impacts: Through development of the X-ray Altas we hope to achieve the following: (i)  Create new and very 
+exciting opportunities for lab-based mineralogy, petrology and mineral physics undergraduate and graduate education at 
+the University of Hawaii (ii) Create a personnel training and new technology prototyping site for two new HIGP-led, 
+NSF-funded initiatives COMPRES Technology Center at Argonne (COMPTECH) and Partnership for eXtreme Xtallography (PX^2), 
+(iii) Create a testing and prototyping site for the NSF EAR Geoinformatics project EAR 1440005 to develop ATREX – a 
+novel data analysis software package for mineral and environmental sciences (iv) Create novel, unique, robust and 
+custom-designed technology that could be transferred to other university mineral physics research labs, and will be 
+marketed by the commercial instrument vendor, Bruker AXS and (v) Create a university-based training facility for 
+students and researchers from other institutions who would like to learn about advanced crystallographic methods in 
+mineral sciences. 
 
 <div class="floatright">
 <img src="images/Venture2.jpg" width="390">
@@ -95,10 +134,18 @@ Using Bayesian statistical techniques that are robust to outliers in the dataset
 </div>
 
 <div class="textfull" markdown="1">
-The resulting powder diffraction profiles are then fit to obtain perovskite volumes as a function of pressure and temperature.
-From the extracted volumes, I construct high temperature equations of state for both Fe-bearing and Fe-free compositions, comparing with careful reanalysis of literature data.
-Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
-
+COMPRES has recently funded a new joint project of the University of Hawaii, and GSECARS located at APS 
+experimental station 13BM-C, with Dera as PI. Recent upgrade of the monochromator and focusing optics in 
+that station allows to extend the experimental capabilities offered at 13BM-C to include powder and single 
+crystal diffraction experiments in diamond anvil cell or on diamond inclusions. Unique design combining 
+Newport 6-circle diffractometer with laser spectroscopy optics, currently under commissioning, enables single 
+crystal X-ray diffraction measurements at combined high pressure and high or low temperature. The PX^2 instrument 
+currently offers 30 keV incident energy beam, focused to 15 x 15 μm size, with supplementary imaging system, which 
+allows accurate sample monitoring and positioning, ideal for the diamond anvil cell work. Several successful 
+commissioning measurements of microcrystal samples in the air, solid inclusions in natural kimberlitic diamonds, as 
+well as crystal inside diamond-anvil cell have already been performed. PX^2 has already started accepting general 
+users for the 2015-2 APS run. The progress of the development of laser heating HPHT capabilities of this instrument 
+will rely on the availability of X-ray Atlas as a prototyping and training instrument in Hawaii.
 </div>
 <div class="clear"></div>
 
