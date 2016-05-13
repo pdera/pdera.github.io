@@ -1,6 +1,6 @@
 ---
 layout: facilities
-title: Facilities
+title: Facilities 
 active: facilities
 ---
 <div class="floatright">
