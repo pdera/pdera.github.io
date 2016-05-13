@@ -31,7 +31,7 @@ The Mineral Physics laboratories at HIGP occupy a space of approximately 3500 sq
  
 <h3><a name="spl"></a>Diamond Anvil Cell Sample Preparation Lab</h3>
 <div class="floatleft">
-<img src="images/SamplePrep.jpg" width="400">
+<img src="images/SamplePrep.jpg" width="350">
 </div>
 
 <div class="textfull" markdown="1">
@@ -51,7 +51,7 @@ The HIGP Mineral Physics lab is well equipped for sample preparation in mineral 
 
 <h3><a name="rsl"></a>High Pressue and Temperature Raman Spectroscopy Lab</h3>
 <div class="floatright">
-<img src="images/RamanLab.jpg" width="400">
+<img src="images/RamanLab.jpg" width="350">
 </div>
 
 
@@ -72,7 +72,7 @@ fiber optics transport with the Bruker D8 Venture unit of the X-ray Atlas.
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 
 <div class="floatleft">
-<img src="images/Advance2.jpg" width="400">
+<img src="images/Advance2.jpg" width="350">
 </div>
 
 <div class="textfull" markdown="1">
@@ -103,7 +103,7 @@ the diffractometer. The final instrument modification will be (T3) integration o
 beam stop assembly, which will be utilized for automated X-ray absorption/transmission scanning.
 
 <div class="floatright">
-<img src="images/Venture2.jpg" width="400">
+<img src="images/Venture2.jpg" width="350">
 </div>
 
 
@@ -133,7 +133,7 @@ mineral sciences.
 
 <h3><a name="px2">Partnership for eXtreme Xtallography</a></h3>
 <div class="floatleft">
-<img src="images/px2.jpg" width="400">
+<img src="images/px2.jpg" width="350">
 </div>
 
 <div class="textfull" markdown="1">
