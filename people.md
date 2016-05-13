@@ -38,12 +38,19 @@ in Geophysics from University of Illinois at Urbana Champaign and her main speci
 
 <h3>Dr. Dongzhou Zhang, PX^2 Beamline Scientist</h3>
 <div class="floatleft">
-<img src="images/DongzhouZhang.jpg" width="200">
+<img src="images/zhang_dongzhou_NoBKG.jpg" width="200">
 </div>
 
 <div class="textfull" markdown="1">
-Dongzhou is a Beamline Scientist for the Partnership for eXtreme Xtallography project at Argonne. He graduated from Caltech 
-with a PhD in Geophysics. Dongzhou's specialty is synchrotron Mossbauer spectroscopy. 
+Dongzhou Zhang received his B.S. in physics from Peking University, Beijing, China, in 2008.
+He completed his Ph.D. in geophysics under the supervision of Prof. Jennifer Jackson at 
+California Institute of Technology, Pasadena, CA, in 2014. He is currently the beamline scientist 
+of the Partnership for eXtreme Xtallography program affiliated with the University of Hawaii at 
+Manoa and located at the GeoSoilEnviroCARS at Argonne National Laboratory. His research 
+interests include physics and chemistry of the planetary interiors, high pressure physics and 
+synchrotron based X-ray techniques. He received several awards, including the Chinese 
+Government Award for Outstanding Self-Financed Students Abroad (2013) and the American 
+Geophysical Union Mineral and Rock Physics Graduate Research Award (2015).
 </div>
 
 <div class="clear"> </div>
