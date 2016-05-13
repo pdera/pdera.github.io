@@ -94,16 +94,12 @@ including University of Arizona, Northwestern University and University of Alaba
 <br />
 <h3>Jingui Xu, Visiting PhD Student</h3>
 <div class="floatleft">
-<img src="images/person.png" width="200">
+<img src="images/JinguiXu.jpg" width="200">
 </div>
 
 <div class="textfull" markdown="1">
-Hannah’s thesis research focuses on understanding the role and consequences of hydrogen bonds in controlling compressional 
-behavior and phase transitions in solids. Hannah uses advanced crystallographic methods, including time-resolved synchrotron 
-diffraction and pressure-ramp approach to study two classes of materials: (a) organic solids that have similar molecular structures, 
-and packing patterns, but differ in hydrogen bond formation ability and (b) isostructural couples of inorganic solids that are fully 
-hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
-including University of Arizona, Northwestern University and University of Alabama. 
+Jingui is a visiting student from Institute of Geochemistry, Chinese Academy of Sciences. His Ph.D. study focuses on phase 
+transitions and equation of state of hydrous pyroxenes
 </div>
 
 <div class="clear"> </div>
