@@ -43,7 +43,7 @@ in Geophysics from University of Illinois at Urbana Champaign and her main speci
 
 <div class="textfull" markdown="1">
 Dongzhou is a Beamline Scientist for the Partnership for eXtreme Xtallography project at Argonne. He graduated from Caltech 
-with a PhD in Geophysics. 
+with a PhD in Geophysics. Dongzhou's specialty is synchrotron Mossbauer spectroscopy. 
 </div>
 
 <div class="clear"> </div>
@@ -85,4 +85,53 @@ including University of Arizona, Northwestern University and University of Alaba
 
 <div class="clear"> </div>
 <br />
+<h3>Jingui Xu, Visiting PhD Student</h3>
+<div class="floatleft">
+<img src="images/person.png" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+Hannah’s thesis research focuses on understanding the role and consequences of hydrogen bonds in controlling compressional 
+behavior and phase transitions in solids. Hannah uses advanced crystallographic methods, including time-resolved synchrotron 
+diffraction and pressure-ramp approach to study two classes of materials: (a) organic solids that have similar molecular structures, 
+and packing patterns, but differ in hydrogen bond formation ability and (b) isostructural couples of inorganic solids that are fully 
+hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
+including University of Arizona, Northwestern University and University of Alabama. 
+</div>
+
+<div class="clear"> </div>
+<br />
+
+
+<h2><a name="tes"></a>Technical and Engineering Staff</h2>
+
+<h3>Harold Garbeil, ATREX Software Development</h3>
+<div class="floatleft">
+<img src="images/HaroldGarbeil.jpg" width="200">
+</div>
+<div class="textfull" markdown="1">
+</div>
+
+<div class="clear"> </div>
+<br />
+
+<h3>Linda Martel, AREX Outreach Specialist</h3>
+<div class="floatleft">
+<img src="images/LindaMartel.jpg" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+</div>
+
+<h3>Mario Williamson, PX^2 Engineering Support</h3>
+<div class="floatleft">
+<img src="images/person.png" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+</div>
+
+<div class="clear"> </div>
+<br />
+
 
