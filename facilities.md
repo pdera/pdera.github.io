@@ -31,7 +31,7 @@ The Mineral Physics laboratories at HIGP occupy a space of approximately 3500 sq
  
 <h3><a name="spl"></a>Diamond Anvil Cell Sample Preparation Lab</h3>
 <div class="floatleft">
-<img src="images/SamplePrep.jpg" width="300">
+<img src="images/SamplePrep.jpg" width="400">
 </div>
 
 <div class="textfull" markdown="1">
@@ -51,7 +51,7 @@ The HIGP Mineral Physics lab is well equipped for sample preparation in mineral 
 
 <h3><a name="rsl"></a>High Pressue and Temperature Raman Spectroscopy Lab</h3>
 <div class="floatright">
-<img src="images/RamanLab.jpg" width="300">
+<img src="images/RamanLab.jpg" width="400">
 </div>
 
 
@@ -72,7 +72,7 @@ fiber optics transport with the Bruker D8 Venture unit of the X-ray Atlas.
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 
 <div class="floatleft">
-<img src="images/Advance2.jpg" width="328">
+<img src="images/Advance2.jpg" width="400">
 </div>
 
 <div class="textfull" markdown="1">
@@ -101,6 +101,12 @@ optics transport to the sample viewing system of the Venture diffractometer, whi
 and Raman signal using an existing standalone Princeton Instruments spectroscopy system, while the sample is mounted on 
 the diffractometer. The final instrument modification will be (T3) integration of photodiode detector into the X-ray 
 beam stop assembly, which will be utilized for automated X-ray absorption/transmission scanning.
+
+<div class="floatright">
+<img src="images/Venture2.jpg" width="400">
+</div>
+
+
 Intellectual Merits: This project is centered around (i) creating unique experimental capabilities that will enable in house 
 research focused on crystallographic aspects of mineral physics at conditions that are currently inaccessible to other 
 existing in house instruments (ii) creating new scientific opportunities for studying complex mineral systems of geophysical 
@@ -119,9 +125,6 @@ marketed by the commercial instrument vendor, Bruker AXS and (v) Create a univer
 students and researchers from other institutions who would like to learn about advanced crystallographic methods in 
 mineral sciences. 
 
-<div class="floatright">
-<img src="images/Venture2.jpg" width="390">
-</div>
 
 </div>
 <div class="clear"></div>
