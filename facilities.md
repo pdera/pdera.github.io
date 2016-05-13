@@ -17,49 +17,54 @@ active: facilities
 </div>
 
 
-My research interests span a broad range of topics including planetary science, geochemistry, geophysics, and statistical analysis.
-In particular, the bulk of my work is focused on understanding the chemistry and thermodynamics of the Earth’s lower mantle.
-I approach this topic with a variety of techniques, including diamond anvil cell experiments, thermodynamic modeling of first principles calculations, and simplified atomic-scale modeling.
-I have also done work on determining the interior properties of extrasolar planets through their orbital evolution, as well as various applications of Bayesian statistical techniques toward understanding various fields in the geosciences.
-Below I describe a number of these research projects in more detail, and you can see a list of my publications [here](publications.html).
-
+The Mineral Physics laboratories at HIGP occupy a space of approximately 3500 sq. ft.
+ and house a wide variety of state of the art analytical instrumentation, majority of 
+ which has been acquired over the years with generous help from the NSF EAR programs 
+ and has been used for conducting advanced research and for student training in high-pressure 
+ science. The laboratories are equipped for measurements of physical, chemical, spectroscopic, 
+ micro-structural and nano-structural properties of minerals, advanced ceramics and ceramic composites, 
+ single-crystalline and poly-crystalline minerals, silicate glasses and melts, and hard thin ceramic 
+ films as well as metals and molten alloys. HIGP high pressure labs are not only a truly unique 
+ resource for mineral science research and student training within the Hawaiian Islands and central 
+ Pacific region, but also one of the largest and most comprehensive academic research facilities 
+ in Mineral Physics in the country.
+ 
 <h3><a name="spl"></a>Diamond Anvil Cell Sample Preparation Lab</h3>
 <div class="floatleft">
-<img src="images/cartoonCNEvo.png" width="300">
+<img src="images/SamplePrep.jpg" width="300">
 </div>
 
 <div class="textfull" markdown="1">
-Determining the evolution of the Earth's mantle since formation is a crucial topic to understanding its present state.
-This is particularly true given that temperature and composition are often highly degenerate in seismic observations of the mantle.
-It has long been thought that the Earth likely went through one or more periods in which the mantle was predominantly or entirely molten.
-This magma ocean scenario is a simple consequence of the extremely large energies involved in terrestrial planet accretion.
-Recent experimental and theoretical work have shown that the properties of high pressure silicates are rather different from what was previously supposed, implying that crystallization of a magma ocean proceeds from the center outward rather than from the bottom up.
-This shift in our understanding is a consequence of the depths of both crystallization and neutral crystal buoyancy.
-Since these parameters are defined by composition-dependent equilibrium conditions, it is important to develop a simple model of silicate liquids that allows rapid determination of equations of state in a large chemically relevant system.
-For this project, I have developed the Coordinated Hard Sphere Mixture (CHaSM), which can rapidly predict the behavior of complex silicate liquids over wide ranges in Temperature, Pressure, and Composition.
-I am currently applying this general model to a simplified chemical representation of the Earth's mantle with an eye toward later using it to determine the chemical and thermal evolution of a planetary magma ocean.
-(*The first CHaSM paper was developed together with Paul Asimow and David Stevenson at Caltech and is currently under review at Geochimica et Cosmochimica Acta, see [publications](publications.html). Further work is underway to extend the model to a wider chemical system.*)
+The HIGP Mineral Physics lab is well equipped for sample preparation in mineral science research.
+ The sample preparation labs have just been renovated. Three modern stereo microscopes with long working 
+ distance high magnification objectives and high resolution digital cameras offer capabilities for examining, 
+ photographing, and documenting both starting samples, as well as products of HPHT experiments. 
+ A high temperature oven is available for sample synthesis or removal of moisture from hygroscopic samples. 
+ A laser gasket drilling system and an electric discharge drilling machine (EDM) are also available for 
+ drilling sample chambers in gaskets for diamond anvil cell (DAC) experiments. 
+ An existing gas loading system is being modified for visual and optical access to the high pressure chamber 
+ for more reproducible and reliable gas loading and will be ready for use by our group in the near future.
 </div>
 
 <div class="clear"> </div>
 <hl>
 
 <h3><a name="rsl"></a>High Pressue and Temperature Raman Spectroscopy Lab</h3>
-<div class="floatleft">
-<img src="images/cartoonCNEvo.png" width="300">
+<div class="floatright">
+<img src="images/RamanLab.jpg" width="300">
 </div>
 
 
 <div class="textfull" markdown="1">
-Iron-bearing magnesium silicate perovskite (recently named Bridgmanite) is thought to be the dominant mineral in the Earth's lower mantle, occupying ~80% by volume.
-This makes it one of the most crucial phases to understanding the structure and long-term evolution of the Earth.
-In this work, I set out to characterize the composition-dependent compression behavior of perovskite at realistic mantle conditions using laser-heated diamond anvil cell experiments.
-Synchrotron X-ray diffraction experiments were carried out at the Advanced Photon Source, measuring the high temperature compression curves for (Mg,Fe)SiO<sub>3</sub> perovskite in a quasi-hydrostatic neon pressure medium for a range of iron compositions.
-The resulting powder diffraction profiles are then fit to obtain perovskite volumes as a function of pressure and temperature.
-From the extracted volumes, I construct high temperature equations of state for both Fe-bearing and Fe-free compositions, comparing with careful reanalysis of literature data.
-Using Bayesian statistical techniques that are robust to outliers in the dataset, we are able to show that the thermal expansion trends with temperature for perovskite (even in the absence of iron) are considerably higher than previously thought.
-(*This work was carried out in close collaboration with Jennifer Jackson at Caltech, and will be submitted soon to EPSL.*)
-*****
+HIGP spectroscopy lab houses a high-resolution triple-grating Dilor Raman spectrometer with 
+a cryogenically cooled CCD detector and long working distance high magnification microscope, 
+optimized for experiments with diamond anvil cells at ambient temperature. Spectra Physics Model 
+2020 Ar-ion laser supplies the incident light. This instrument has been the working horse of the 
+Raman spectroscopy research at HIGP for many years, but is nearing retirement due to mechanical 
+and electronic problems. A second custom Princeton Instruments micro-Raman system based on a modern 
+Acton SP2360 imaging spectrograph, thermoelectric deeply depleted back illuminated PIXIS CCD detector 
+and 1000 mW 532nm solid state laser has just been added. This new system will be coupled by broadband 
+fiber optics transport with the Bruker D8 Venture unit of the X-ray Atlas. 
 </div>
 <div class="clear"></div>
 <hl>
