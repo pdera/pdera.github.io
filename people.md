@@ -122,6 +122,9 @@ including University of Arizona, Northwestern University and University of Alaba
 
 <div class="textfull" markdown="1">
 </div>
+<div class="clear"> </div>
+<br />
+
 
 <h3>Mario Williamson, PX^2 Engineering Support</h3>
 <div class="floatleft">
