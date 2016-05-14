@@ -44,6 +44,12 @@
             <li><a href="/teaching.html">Teaching</a></li>
             {% endif %}
 
+            {% if page.active == "SOftware" %}
+            <li class="selected"><a href="/software.html">Software</a></li>
+            {% else %}
+            <li><a href="/software.html">Software</a></li>
+            {% endif %}
+
 			{% if page.active == "News" %}
             <li class="selected"><a href="/news.html">News</a></li>
             {% else %}
