@@ -18,11 +18,7 @@ All personnel (including students) using-high pressure research facilities at HI
 
 <li><a href="http://www.aps.anl.gov/Users/User_Online_Training_Links.htm">Argonne National Lab GERT (General Employee Radiological Training) </a> is required for all X-ray Atlas and PX^2 users (available online).</li>
 
-
-<br>
-
 Go to HIGP high-pressure lab safety website
-<br>
 </div>
 
 
