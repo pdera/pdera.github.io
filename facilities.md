@@ -5,14 +5,19 @@ active: facilities
 ---
 
 <div class="box1" markdown="1">
-<h2>Lab Safety:</h2>
-All personnel (including students) using high pressure research facilities at HIGP is required to undergo formallized safety training:
+<h2>Lab Safety and Security:</h2>
+All personnel (including students) using-high pressure research facilities at HIGP is required to undergo formallized safety training:
 
-<li><a href="http://www.hawaii.edu/ehso/lab/training.htm">UH Lab Sefety Training (in person)</a> is required for all lab users.</li>
+<li><a href="http://www.hawaii.edu/ehso/lab/training.htm">UHM ESHO Lab Sefety Training </a> is required for all lab users (only available in person).</li>
 
-<li><a href="http://www.aps.anl.gov/Safety_and_Training/Training/Courses/esh738/start.html">Argonne National Lab General Employee Radiological Training (online)</a> is required for all X-ray Atlas and PX^2 users</li>
+<li><a href="http://www.aps.anl.gov/Users/User_Online_Training_Links.htm">Argonne National Lab ESH377 (Electrical Safety Awareness Training) </a> is required for all lab users (available online).</li>
 
-<li><a href="http://www.aps.anl.gov/Safety_and_Training/Training/Courses/esh738/start.html">Argonne National Lab GERT (General Employee Radiological Training) </a> is required for all X-ray Atlas and PX^2 users (available online).</li>
+<li><a href="http://www.aps.anl.gov/Users/User_Online_Training_Links.htm">Argonne National Lab ESH223 (Cybersecurity) </a> is required for all lab users (available online).</li>
+
+<li><a href="http://www.aps.anl.gov/Users/User_Online_Training_Links.htm">Argonne National Lab ESH120 Laser Safety Training</a> is required for all users of the laser spectroscopy systems in HIG105(available online).</li>
+
+<li><a href="http://www.aps.anl.gov/Users/User_Online_Training_Links.htm">Argonne National Lab GERT (General Employee Radiological Training) </a> is required for all X-ray Atlas and PX^2 users (available online).</li>
+
 
 <br>
 
