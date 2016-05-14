@@ -11,10 +11,9 @@ is required to undergo formallized safety training. Our Lab Safety and Security 
 and provides access to documents describing safe procedures to operate all of lab interumentation, as well as MSDS 
 sheets for all chemicals we use. 
 <br>
-<a href="../lab_safety/lab_safety.html" Go to HIGP high-pressure Lab Safety and Security website /a>
+<a href="../lab_safety/lab_safety.html" Go to HIGP high-pressure Lab Safety and Security website> </a>
 </div>
 
----
 <div class="floatright">
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
