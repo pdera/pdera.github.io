@@ -20,6 +20,12 @@
             <li><a href="/facilities.html">Facilities</a></li>
             {% endif %}
 
+            {% if page.active == "labsafety" %}
+            <li class="selected"><a href="/lab_safety.html">Lab safety</a></li>
+            {% else %}
+            <li><a href="/lab_safety.html">Lab safety</a></li>
+            {% endif %}
+			
             {% if page.active == "research" %}
             <li class="selected"><a href="/research.html">Research</a></li>
             {% else %}
