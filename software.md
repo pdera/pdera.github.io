@@ -1,7 +1,7 @@
 ---
-layout:  news
-title: News
-active: news
+layout:  default
+title: Software
+active: software
 ---
 
-{% include pd-news.html %}
+Under construction
