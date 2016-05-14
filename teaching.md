@@ -6,9 +6,21 @@ active: Teaching
 
 <h2>Teaching and mentoring activities since joining the University of Hawaii </h2>
 <h3>GG 301 Mineralogy</h3>
-In the fall semester of 2014 I taught the Geology and Geophysics 301 Mineralogy undergraduate course together with Dr. Julia Hammer. Mineralogy is one of the core courses required to graduate with major in geology, and is not an easy topic to study or teach. The subject is very quantitative, requires development of good 3-dimensional perception and visual pattern recognition, relies quite heavily on at least intermediate level concepts of solid state chemistry, physics and calculus, and involves labs that develop skills in hand specimen interpretation and petrographic microscope use for mineral identification. We had 15 students enrolled in the fall 2014 GG 301 class. Approximately half of the students were graduate level students enrolled in the G&G MSc or PhD programs, with the remaining half being undergraduates. 
-The classes in GG301 are designed to be fast paced, including exciting experiments that range from pouring liquid nitrogen on pyroelectric crystals, to cutting fruits and vegetables, the shapes of which resemble optical property ellipsoids. Students stay engaged through the whole class, ask questions and retained a lot of information. 
+In the fall semester of 2014 I taught the Geology and Geophysics 301 Mineralogy undergraduate course together with Dr. Julia Hammer. 
+Mineralogy is one of the core courses required to graduate with major in geology. The subject is very quantitative, requires 
+development of good 3-dimensional perception and visual pattern recognition, relies quite heavily on at least intermediate level 
+concepts of solid state chemistry, physics and calculus, and involves labs that develop skills in hand specimen interpretation and 
+petrographic microscope use for mineral identification. We had 15 students enrolled in the fall 2014 GG 301 class. Approximately half 
+of the students were graduate level students enrolled in the G&G MSc or PhD programs, with the remaining half being undergraduates. 
+The classes in GG301 are designed to be fast paced, including exciting experiments that range from pouring liquid nitrogen on pyroelectric 
+crystals, to cutting fruits and vegetables, the shapes of which resemble optical property ellipsoids. Students stay engaged through the 
+whole class, ask questions and retained a lot of information. 
 In the fall semester of 2015 I taught GG301 again, together with Dr. Bin Chen. The class had enrollment of 14 students.
+<br>
+<a href="../teaching/GG301/GG301_F15_syllabus.pdf" target="_blank">Read syllabus</a>
+
+
+
 <h3>Mentoring graduate students</h3>
 I currently advise, fully fund, and serve as chair of the PhD Committee for two UH mineral physics students, Yi Hu and Hannah Shelton. Both of the students successfully passed their PhD qualifying exams in 2014 and are well on track towards timely completion of their dissertation work. Each of the students is already a first author on a peer-reviewed journal publication.  
 <h3>Mentoring undergraduate students</h3>
