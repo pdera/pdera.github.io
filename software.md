@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  software
 title: Software
 active: software
 ---
