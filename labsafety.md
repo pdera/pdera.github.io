@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  labsafety
 title: Lab Safety and Security
 active: labsafety
 ---

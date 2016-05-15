@@ -14,7 +14,7 @@ active: people
 </div>
 </div>
 
-Our groups includes students and personnel based on campus, in Honolulu, as well as several scientists working
+Our group includes students and personnel based on campus, in Honolulu, as well as several scientists working
 at the Argonne National Laboratory. Our graduate students are enrolled in PhD program administered through the Department of Geology 
 and Geophysics, where Przemek holds a graduate faculty position. We also employ UHM undergraduates for shorter-term projects, and host visits of 
 students from other Universities.  
