@@ -1,6 +1,6 @@
 ---
 layout: people
-title: People
+title: Booking X-ray Atlas time
 active: people
 ---
 
