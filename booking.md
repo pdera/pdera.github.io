@@ -1,7 +1,7 @@
 ---
-layout: people
+layout: facilities
 title: Booking X-ray Atlas time
-active: people
+active: facilities
 ---
 
 
