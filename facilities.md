@@ -114,7 +114,7 @@ the diffractometer. The final instrument modification will be (T3) integration o
 beam stop assembly, which will be utilized for automated X-ray absorption/transmission scanning.
 
 <div class="floatright">
-<img src="images/Venture2.jpg" width="350">
+<img src="images/venture_400.JPG" width="350">
 </div>
 
 
