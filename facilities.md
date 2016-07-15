@@ -83,7 +83,7 @@ fiber optics transport with the Bruker D8 Venture unit of the X-ray Atlas.
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
 
 <div class="floatleft">
-<img src="images/Advance2.jpg" width="350">
+<img src="images/advance_400.JPG" width="350">
 </div>
 
 <div class="textfull" markdown="1">
