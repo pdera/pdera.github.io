@@ -20,9 +20,10 @@ active: home
 
 
 <div class="splitright">
-<div class="box">
-I am an Associate Professor in the Hawaii Institute of Geophysics and Planetology at the University of Hawaii at Manoa.
-My research interests are focused mainly on understanding the effects of extreme pressure and temperature on the structure and properties of materials in the context of deep Earth geophysics and materials science.
+<div class="box1">
+I am a Professor of Mineral Physics in the Hawaii Institute of Geophysics and Planetology at the University of Hawaii at Manoa.
+My research interests are focused mainly on understanding the effects of extreme pressure and temperature on the structure and 
+properties of materials in the context of deep Earth geophysics and materials science.
 </div>
 </div>
 
