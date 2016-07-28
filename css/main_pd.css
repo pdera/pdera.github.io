@@ -129,3 +129,17 @@ code.has-jax {font: inherit;
 	BORDER-BOTTOM: medium none;
 	height: 1px;
 	background-color: #000080;} 
+.box2 {margin-bottom:20px; padding:10px; border:1px solid #636a46; background-color:#E1E3D4; color:#444; line-height:1.5em;}
+.hr {display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+	BORDER-RIGHT: medium none; 
+	BORDER-TOP: #cccccc 1px solid; 
+	BORDER-LEFT: medium none; 
+	BORDER-BOTTOM: medium none;
+	height: 1px;
+	background-color: #000080;} 
