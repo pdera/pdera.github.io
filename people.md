@@ -11,6 +11,8 @@ active: people
 [Graduate Students](#gs)
 <br>
 [Technical and Engineering Staff](#xal)
+<br>
+[People who moved on](#mo)
 </div>
 </div>
 
@@ -133,6 +135,21 @@ transitions and equation of state of hydrous pyroxenes
 <div class="floatleft">
 <img src="images/person.png" width="200">
 </div>
+
+<h2><a name="mo"></a>People who moved on</h2>
+
+<h3>Dr. Jin S. Zhang, COMPRES Technology Officer</h3>
+<div class="floatleft">
+<img src="images/JinZhang.jpg" width="200">
+</div>
+<div class="textfull" markdown="1">
+Jin's was a Research Scientist and Technology Officer for COMPTECH, COMPRES Technology Center at Argonne from November 2014 until July 2016. Jin graduated with a PhD 
+in Geophysics from University of Illinois at Urbana Champaign and her main specialty is Brillouin Spectroscopy. She is now an Assistant Professor in the Geology Department and Institute of Meteoritics at University of New Mexico
+</div>
+
+<div class="clear"> </div>
+<br />
+
 
 <div class="textfull" markdown="1">
 </div>
