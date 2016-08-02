@@ -26,18 +26,6 @@ employment opportunities.
 
 <h2><a name="rs"></a>Research Scientists</h2>
 
-<h3>Dr. Jin S. Zhang, COMPRES Technology Officer</h3>
-<div class="floatleft">
-<img src="images/JinZhang.jpg" width="200">
-</div>
-<div class="textfull" markdown="1">
-Jin's is a Research Scientist and Technology Officer for COMPTECH, COMPRES Technology Center at Argonne. Jin graduated with a PhD 
-in Geophysics from University of Illinois at Urbana Champaign and her main specialty is Brillouin Spectroscopy. 
-</div>
-
-<div class="clear"> </div>
-<br />
-
 <h3>Dr. Dongzhou Zhang, PX^2 Beamline Scientist</h3>
 <div class="floatleft">
 <img src="images/zhang_dongzhou_NoBKG.jpg" width="200">
@@ -135,6 +123,9 @@ transitions and equation of state of hydrous pyroxenes
 <div class="floatleft">
 <img src="images/person.png" width="200">
 </div>
+<div class="clear"> </div>
+<br />
+
 
 <h2><a name="mo"></a>People who moved on</h2>
 
