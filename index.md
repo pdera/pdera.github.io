@@ -16,12 +16,10 @@ active: home
 
 <div class="splitleft">
 <img class="left" src="images/buddist_temple_small.jpg" alt="At a Buddist Temple in East Oahu">
-</div>
-
-<div class="clear"> </div>
-<br />
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/eWiDP2klrFo" frameborder="0" allowfullscreen></iframe>
+
+</div>
 
 
 
