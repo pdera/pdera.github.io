@@ -22,7 +22,7 @@ sheets for all chemicals we use.
 <a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0">Take a short video tour</a>
 <br>
 <br>
-<div class="floatright">
+
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
@@ -32,7 +32,6 @@ sheets for all chemicals we use.
 [X-ray Atlas Lab](#xal)
 <br>
 [Partmership for eXtreme Xtallography](#px2)
-</div>
 </div>
 
 
