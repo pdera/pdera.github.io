@@ -14,13 +14,8 @@ sheets for all chemicals we use.
 <a href="https://pdera.github.io/labsafety.html"> Go to HIGP high-pressure Lab Safety and Security website</a>
 </div>
 
-<div> 
-
-<class="floatright">
+<div> class="box1" markdown="1">
 <img src="images/atlas.jpg" width="300">
-
-<class="box1" markdown="1">
-</div>
 <a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
 <br>
 <a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0">Take a short video tour</a>
