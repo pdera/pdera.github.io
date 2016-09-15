@@ -15,8 +15,9 @@ sheets for all chemicals we use.
 </div>
 
 <div class="box1" markdown="1">
-<div class="floatleft">
-<img src="images/atlas.jpg" width="400">
+
+<div class="floatright">
+<img src="images/atlas.jpg" width="300">
 </div>
 <a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
 <br>
