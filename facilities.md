@@ -19,19 +19,19 @@ sheets for all chemicals we use.
 </div>
 <a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
 <br>
-<a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0" target="_blank">Take a short video tour of the lab and software</a>
+<a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0" target="_blank">Video tour of the lab and software</a>
 <br>
-<a href="https://www.dropbox.com/s/e3ftcv8bvy04kz4/Brochure%20-%20D8%20QUEST%20VENTURE%20Chemical%20Crystallography%20-%20DOC-B86-EXS008%20low%20en.pdf?dl=0" target="_blank">Read D8 Venture brochure</a>
+<a href="https://www.dropbox.com/s/e3ftcv8bvy04kz4/Brochure%20-%20D8%20QUEST%20VENTURE%20Chemical%20Crystallography%20-%20DOC-B86-EXS008%20low%20en.pdf?dl=0" target="_blank">D8 Venture brochure</a>
 <br>
-<a href="https://www.dropbox.com/s/x0v3hk3k0noj9ox/Cryostream-800.pdf?dl=0" target="_blank">Read Oxford Cryostream 800+ high/low temperature device brochure</a>
+<a href="https://www.dropbox.com/s/x0v3hk3k0noj9ox/Cryostream-800.pdf?dl=0" target="_blank">Oxford Cryostream 800+ high/low T device brochure</a>
 <br>
-<a href="https://www.dropbox.com/s/g2uy2cvzotzwkyv/1%20D8%20Advance%20BR%202012%20rfs%20%281%29.pdf?dl=0" target="_blank">Read D8 Advance brochure</a>
+<a href="https://www.dropbox.com/s/g2uy2cvzotzwkyv/1%20D8%20Advance%20BR%202012%20rfs%20%281%29.pdf?dl=0" target="_blank">D8 Advance brochure</a>
 <br>
-<a href="https://www.dropbox.com/s/z4b6udlsbhk3cq0/1%20D8%20MTC%20TC%20Dome%20PS42.pdf?dl=0" target="_blank">Read TC Dome heating stage brochure</a>
+<a href="https://www.dropbox.com/s/z4b6udlsbhk3cq0/1%20D8%20MTC%20TC%20Dome%20PS42.pdf?dl=0" target="_blank">TC Dome heating stage brochure</a>
 <br>
-<a href="https://www.dropbox.com/s/yr2938d4xn3s0c5/1%20Diffrac_EVA%20BR.pdf?dl=0" target="_blank">Read Diffrac.Eva brochure</a>
+<a href="https://www.dropbox.com/s/yr2938d4xn3s0c5/1%20Diffrac_EVA%20BR.pdf?dl=0" target="_blank">Diffrac.Eva brochure</a>
 <br>
-<a href="https://www.dropbox.com/s/8czznxu71sky0ee/1%20Diffrac%2B%20TOPAS%20V4%202011%20BR.pdf?dl=0" target="_blank">Read Diffrac.TOPAS brochure</a>
+<a href="https://www.dropbox.com/s/8czznxu71sky0ee/1%20Diffrac%2B%20TOPAS%20V4%202011%20BR.pdf?dl=0" target="_blank">Diffrac.TOPAS brochure</a>
 <br>
 
 <div class="box2a" markdown="1">
