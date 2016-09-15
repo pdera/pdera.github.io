@@ -25,8 +25,8 @@ sheets for all chemicals we use.
 
 
 
-
-<div class="box" markdown="1"  width="300">
+<div class="floatright">
+<div class="box" markdown="1">
 <h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
 <br>
@@ -35,6 +35,7 @@ sheets for all chemicals we use.
 [X-ray Atlas Lab](#xal)
 <br>
 [Partmership for eXtreme Xtallography](#px2)
+</div>
 </div>
 
 
