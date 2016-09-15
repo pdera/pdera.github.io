@@ -23,7 +23,7 @@ sheets for all chemicals we use.
 <br>
 <br>
 
-<div class="box" markdown="1">
+<div class="box2" markdown="1">
 <h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
 <br>
