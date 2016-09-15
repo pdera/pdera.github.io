@@ -15,15 +15,12 @@ sheets for all chemicals we use.
 </div>
 
 <div class="floatleft">
-<img src="images/atlas.jpg" width="430">
+<img src="images/atlas.jpg" width="440">
 </div>
 <a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
 <br>
 <a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0">Take a short video tour</a>
 <br>
-<br>
-
-
 
 <div class="floatright">
 <div class="box" markdown="1">
