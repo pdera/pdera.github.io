@@ -15,7 +15,7 @@ sheets for all chemicals we use.
 </div>
 
 <div class="floatleft">
-<img src="images/atlas.jpg" width="400">
+<img src="images/atlas.jpg" width="450">
 </div>
 <a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
 <br>
@@ -25,7 +25,7 @@ sheets for all chemicals we use.
 
 
 
-<div class="floatright">
+
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
@@ -35,7 +35,6 @@ sheets for all chemicals we use.
 [X-ray Atlas Lab](#xal)
 <br>
 [Partmership for eXtreme Xtallography](#px2)
-</div>
 </div>
 
 
