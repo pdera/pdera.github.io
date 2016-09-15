@@ -12,26 +12,28 @@ and provides access to documents describing safe procedures to operate all of la
 sheets for all chemicals we use. 
 <br>
 <a href="https://pdera.github.io/labsafety.html"> Go to HIGP high-pressure Lab Safety and Security website</a>
+</div>
 
-<h2>Table of Contents:</h2>
+<div class="floatleft">
+<img src="images/atlas.jpg" width="430">
+</div>
+<a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
+<br>
+<a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0">Take a short video tour</a>
+<br>
+<br>
+
+<div class="box2a" markdown="1">
+<h3>Table of Contents:</h3>
 [Sample Preparation Lab](#spl)
 <br>
 [Raman Spectroscopy Lab](#rsl)
 <br>
 [X-ray Atlas Lab](#xal)
 <br>
-[Partnership for eXtreme Xtallography](#px2)
-
-
+[Partmership for eXtreme Xtallography](#px2)
 </div>
 
-<div class="floatleft">
-<img src="images/atlas.jpg" width="350">
-</div>
-<a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
-<br>
-<a href="https://www.dropbox.com/s/j9j8sp83tuppmfe/Atlas_all.mp4?dl=0">Take a short video tour</a>
-<br>
 
 The Mineral Physics laboratories at HIGP occupy a space of approximately 3500 sq. ft.
  and house a wide variety of state of the art analytical instrumentation, majority of 
