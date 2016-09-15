@@ -15,7 +15,7 @@ sheets for all chemicals we use.
 </div>
 
 <div class="box1" markdown="1">
-<h3><a href="https://pdera.github.io/booking.html">Book X-ray Atlas:</h3>
+<h3><a href="https://pdera.github.io/booking.html">Book X-ray Atlas:</h3></a>
 </div>
 
 
