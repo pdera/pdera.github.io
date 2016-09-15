@@ -20,12 +20,13 @@ sheets for all chemicals we use.
 <br>
 [X-ray Atlas Lab](#xal)
 <br>
+[Partnership for eXtreme Xtallography](#px2)
 
 
 </div>
 
 <div class="floatleft">
-<img src="images/atlas.jpg" width="430">
+<img src="images/atlas.jpg" width="350">
 </div>
 <a href="https://pdera.github.io/booking.html">Book X-ray Atlas time</a>
 <br>
