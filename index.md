@@ -15,7 +15,7 @@ active: home
 </script>
 
 <div class="splitleft">
-<img class="left" width="400" src="images/planetary.jpg" alt="Hanging out with astronaut buddies:)">
+<img class="left" width="400" src="images/Przemek.jpg">
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/eWiDP2klrFo" frameborder="0" allowfullscreen></iframe>
 
