@@ -72,7 +72,7 @@ high pressures and temperatures. Insights from this work are used to enhance our
 </div>
 
 <div class="textfull" markdown="1">
-Yi’s theses research is focused on understanding metastable polymorphism in pyroxene minerals in the context of 
+Yi’s thesis research is focused on understanding metastable polymorphism in pyroxene minerals in the context of 
 subduction zone modeling. Yi uses advanced crystallographic methods and synchrotron diffraction, as well as DFT 
 calculations and phase equilibria modeling to study previously unknown discontinuous transformations in natural 
 mantle pyroxenes and model synthetic end-members. Within this project we collaborate with several other CDAC-supported 
@@ -94,6 +94,7 @@ diffraction and pressure-ramp approach to study two classes of materials: (a) or
 and packing patterns, but differ in hydrogen bond formation ability and (b) isostructural couples of inorganic solids that are fully 
 hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
 including University of Arizona, Northwestern University and University of Alabama. 
+</div>
 </div>
 <br />
 
