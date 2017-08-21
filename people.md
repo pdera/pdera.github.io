@@ -80,13 +80,11 @@ groups, including Princeton University, University of Arizona and Northwestern U
 </div>
 
 <div class="clear"> </div>
-
 <br>
 <h3>Hannah Shelton, PhD Student</h3>
 <div class="floatleft">
 <img src="images/HannahShelton.jpg" width="200">
 </div>
-
 <div class="textfull" markdown="1">
 Hannah’s thesis research focuses on understanding the role and consequences of hydrogen bonds in controlling compressional 
 behavior and phase transitions in solids. Hannah uses advanced crystallographic methods, including time-resolved synchrotron 
@@ -94,6 +92,27 @@ diffraction and pressure-ramp approach to study two classes of materials: (a) or
 and packing patterns, but differ in hydrogen bond formation ability and (b) isostructural couples of inorganic solids that are fully 
 hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
 including University of Arizona, Northwestern University and University of Alabama. 
+</div>
+
+<div class="clear"> </div>
+<br>
+<h3>Tommy Yong, PhD Student</h3>
+<div class="floatleft">
+<img src="images/TommyYong.jpg" width="200">
+</div>
+<div class="textfull" markdown="1">
+Tommy did his undergraduate studies at the University of Arizona in Tucson. His thesis research focuses on understanding the role and fate of metastable 
+pyroxenes and amphiboles in the subduction process and magma generation.
+</div>
+
+<div class="clear"> </div>
+<br>
+<h3>Sasithorn (May) Chornkrathok, MSc Student</h3>
+<div class="floatleft">
+<img src="images/person.png" width="200">
+</div>
+<div class="textfull" markdown="1">
+May did her undergraduate studies in Thailand. Her thesis research focuses on understanding the role of Ni and Co phosphides in planetary cores.
 </div>
 
 <div class="clear"> </div>
