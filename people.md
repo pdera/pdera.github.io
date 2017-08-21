@@ -47,6 +47,22 @@ Geophysical Union Mineral and Rock Physics Graduate Research Award (2015).
 <br />
 
 
+<h3>Dr. Gregory Finkelstein, HIGP Mineral Physics Lab Manager</h3>
+<div class="floatleft">
+<img src="images/Greg_Finkelstein.jpg" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+Greg received his B.A. from Washington University in St. Louis with majors in Earth and Planetary Sciences and in Anthropology. 
+He continued on to Princeton, where he worked in Tom Duffy's experimental mineral physics lab and completed a Ph.D. in Geosciences and Materials Science. 
+In his research, Greg uses x-ray crystallography and spectroscopic techniques to characterize the crystal structures and physical properties of planetary materials at 
+high pressures and temperatures. Insights from this work are used to enhance our understanding of the dynamics and structure of planetary interiors.
+</div>
+
+<div class="clear"> </div>
+<br />
+
+
 
 <h2><a name="gs"></a>Graduate Students</h2>
 
@@ -79,6 +95,7 @@ and packing patterns, but differ in hydrogen bond formation ability and (b) isos
 hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
 including University of Arizona, Northwestern University and University of Alabama. 
 </div>
+<br />
 
 <h2><a name="tes"></a>Technical and Engineering Staff</h2>
 
@@ -112,7 +129,6 @@ including University of Arizona, Northwestern University and University of Alaba
 <div class="textfull" markdown="1">
 </div>
 <div class="clear"> </div>
-<br />
 
 <div class="clear"> </div>
 <br />
