@@ -44,7 +44,7 @@ Geophysical Union Mineral and Rock Physics Graduate Research Award (2015).
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 
 <h3>Dr. Gregory Finkelstein, HIGP Mineral Physics Lab Manager</h3>
@@ -60,7 +60,7 @@ high pressures and temperatures. Insights from this work are used to enhance our
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 
 
@@ -80,7 +80,7 @@ groups, including Princeton University, University of Arizona and Northwestern U
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 <h3>Hannah Shelton, PhD Student</h3>
 <div class="floatleft">
@@ -97,7 +97,7 @@ including University of Arizona, Northwestern University and University of Alaba
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 <h2><a name="tes"></a>Technical and Engineering Staff</h2>
 
@@ -109,7 +109,7 @@ including University of Arizona, Northwestern University and University of Alaba
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 
 <h3>Mario Williamson, PX^2 Engineering Support</h3>
@@ -117,7 +117,7 @@ including University of Arizona, Northwestern University and University of Alaba
 <img src="images/person.png" width="200">
 </div>
 <div class="clear"> </div>
-</br>
+
 
 
 <h2><a name="mo"></a>People who moved on</h2>
@@ -133,7 +133,7 @@ including University of Arizona, Northwestern University and University of Alaba
 <div class="clear"> </div>
 
 <div class="clear"> </div>
-</br>
+
 <h3>Jingui Xu, Visiting PhD Student</h3>
 <div class="floatleft">
 <img src="images/JinguiXu.jpg" width="200">
@@ -145,7 +145,7 @@ transitions and equation of state of hydrous pyroxenes
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 
 <h3>Dr. Jin S. Zhang, COMPRES Technology Officer</h3>
@@ -158,7 +158,7 @@ in Geophysics from University of Illinois at Urbana Champaign and her main speci
 </div>
 
 <div class="clear"> </div>
-</br>
+
 
 
 <div class="textfull" markdown="1">
