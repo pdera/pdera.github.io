@@ -80,22 +80,6 @@ hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project 
 including University of Arizona, Northwestern University and University of Alabama. 
 </div>
 
-<div class="clear"> </div>
-<br />
-<h3>Jingui Xu, Visiting PhD Student</h3>
-<div class="floatleft">
-<img src="images/JinguiXu.jpg" width="200">
-</div>
-
-<div class="textfull" markdown="1">
-Jingui is a visiting student from Institute of Geochemistry, Chinese Academy of Sciences. His Ph.D. study focuses on phase 
-transitions and equation of state of hydrous pyroxenes
-</div>
-
-<div class="clear"> </div>
-<br />
-
-
 <h2><a name="tes"></a>Technical and Engineering Staff</h2>
 
 <h3>Harold Garbeil, ATREX Software Development</h3>
@@ -105,16 +89,6 @@ transitions and equation of state of hydrous pyroxenes
 <div class="textfull" markdown="1">
 </div>
 
-<div class="clear"> </div>
-<br />
-
-<h3>Linda Martel, AREX Outreach Specialist</h3>
-<div class="floatleft">
-<img src="images/LindaMartel.jpg" width="200">
-</div>
-
-<div class="textfull" markdown="1">
-</div>
 <div class="clear"> </div>
 <br />
 
@@ -128,6 +102,33 @@ transitions and equation of state of hydrous pyroxenes
 
 
 <h2><a name="mo"></a>People who moved on</h2>
+
+
+<h3>Linda Martel, AREX Outreach Specialist</h3>
+<div class="floatleft">
+<img src="images/LindaMartel.jpg" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+</div>
+<div class="clear"> </div>
+<br />
+
+<div class="clear"> </div>
+<br />
+<h3>Jingui Xu, Visiting PhD Student</h3>
+<div class="floatleft">
+<img src="images/JinguiXu.jpg" width="200">
+</div>
+
+<div class="textfull" markdown="1">
+Jingui was a visiting student from Institute of Geochemistry, Chinese Academy of Sciences. His Ph.D. study focuses on phase 
+transitions and equation of state of hydrous pyroxenes
+</div>
+
+<div class="clear"> </div>
+<br />
+
 
 <h3>Dr. Jin S. Zhang, COMPRES Technology Officer</h3>
 <div class="floatleft">
