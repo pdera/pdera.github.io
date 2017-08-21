@@ -8,9 +8,11 @@ active: people
 <h3>Table of Contents:</h3>
 [Research Scientists](#rs)
 <br>
+[Postdoctoral Fellows](#pf)
+<br>
 [Graduate Students](#gs)
 <br>
-[Technical and Engineering Staff](#xal)
+[Technical and Engineering Staff](#tas)
 <br>
 [People who moved on](#mo)
 </div>
@@ -30,7 +32,6 @@ employment opportunities.
 <div class="floatleft">
 <img src="images/zhang_dongzhou_NoBKG.jpg" width="200">
 </div>
-
 <div class="textfull" markdown="1">
 Dongzhou Zhang received his B.S. in physics from Peking University, Beijing, China, in 2008.
 He completed his Ph.D. in geophysics under the supervision of Prof. Jennifer Jackson at 
@@ -42,9 +43,7 @@ synchrotron based X-ray techniques. He received several awards, including the Ch
 Government Award for Outstanding Self-Financed Students Abroad (2013) and the American 
 Geophysical Union Mineral and Rock Physics Graduate Research Award (2015).
 </div>
-
 <div class="clear"> </div>
-
 <br>
 
 <h3>Dr. Gregory Finkelstein, HIGP Mineral Physics Lab Manager</h3>
@@ -62,6 +61,33 @@ high pressures and temperatures. Insights from this work are used to enhance our
 <div class="clear"> </div>
 
 <br>
+<br>
+
+<h2><a name="pf"></a>Postdoctoral Fellows</h2>
+
+<h3>Dr. Patrick Barnett, Postdoctoral Fellow</h3>
+<div class="floatleft">
+<img src="images/PatrickBarnett.jpg" width="200">
+</div>
+<div class="textfull" markdown="1">
+Patrick received a BS in Chemistry at the University of Central Missouri in 2011. His undergraduate research focused on the development of an electrochemical 
+method for the quantification of carbon in soil which was applied to determining the carbon sequestration of several species of Panicum virgatum (commonly known 
+as switchgrass) to explore the potential of using these species for carbon capture to offset CO2 emissions. 
+
+Patrick received a PhD in Analytical Chemistry at the University of South Carolina in 2016. His graduate research focused on the development of a miniature spatial 
+heterodyne spectrometer (SHS) for Raman spectroscopy and laser-induced breakdown spectroscopy (LIBS) for planetary exploration and other extreme environments. The 
+SHS is a dispersive interferometer with no moving parts which is amenable to miniaturization down to a footprint of only several millimeters while maintaining the 
+sensitivity, resolution, and spectral range of conventional Raman and LIBS spectrometers many times larger in size. Patrick also demonstrated the first application
+of a standard, off-the-shelf cell phone camera as a detector for a miniature Raman spectrometer, resulting in the first published results of cell phone Raman spectroscopy.
+
+Patrick started a postdoctoral fellowship with Shiv Sharma at the Hawaii Institute of Geophysics and Planetology in early 2017. His work has focused on spectroscopic 
+studies of minerals under pressure and temperature conditions similar to the surface of Venus to provide data necessary for planning and designing spectroscopic 
+instruments for future Venus lander missions. He has also taken part in designing a Raman and fluorescence spectrometer as part of a proposed scientific payload 
+for a future Europa lander mission. Patrick is currently helping to expand the analytical capabilities of the Dera lab into Raman spectroscopy to provide additional 
+data for mineralogical samples in high pressure and temperature diamond-anvil cell systems.
+
+</div>
+<div class="clear"> </div>
 <br>
 
 <h2><a name="gs"></a>Graduate Students</h2>
@@ -119,7 +145,7 @@ May did her undergraduate studies in Thailand. Her thesis research focuses on un
 
 <br>
 <br>
-<h2><a name="tes"></a>Technical and Engineering Staff</h2>
+<h2><a name="tas"></a>Technical and Engineering Staff</h2>
 
 <h3>Harold Garbeil, ATREX Software Development</h3>
 <div class="floatleft">
