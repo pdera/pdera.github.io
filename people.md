@@ -138,7 +138,9 @@ pyroxenes and amphiboles in the subduction process and magma generation.
 <img src="images/person.png" width="200">
 </div>
 <div class="textfull" markdown="1">
-May did her undergraduate studies in Thailand. Her thesis research focuses on understanding the role of Ni and Co phosphides in planetary cores.
+May obtained a B.Sc. degree in Geology at Chulalongkorn University in Thailand. She is a recipient of prestigious Development and Promotion of Science 
+and Technology Talents Project (DPST) graduate scholarship awarded by the geoverment of Thailand. Her M.Sc. thesis research focuses on understanding the role 
+of Ni and Co phosphides in planetary cores.
 </div>
 
 <div class="clear"> </div>
