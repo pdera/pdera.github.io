@@ -95,7 +95,8 @@ and packing patterns, but differ in hydrogen bond formation ability and (b) isos
 hydrated (e.g. hydroxide) and fully anhydrous (e.g. oxide). Within this project we collaborate with several other CDAC-supported groups, 
 including University of Arizona, Northwestern University and University of Alabama. 
 </div>
-</div>
+
+<div class="clear"> </div>
 <br />
 
 <h2><a name="tes"></a>Technical and Engineering Staff</h2>
