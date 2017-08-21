@@ -165,8 +165,7 @@ of Ni and Co phosphides in planetary cores.
 <img src="images/person.png" width="200">
 </div>
 <div class="clear"> </div>
-
-
+<br>
 
 <h2><a name="mo"></a>People who moved on</h2>
 
