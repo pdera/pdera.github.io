@@ -67,7 +67,7 @@ high pressures and temperatures. Insights from this work are used to enhance our
 
 <h3>Dr. Patrick Barnett, Postdoctoral Fellow</h3>
 <div class="floatleft">
-<img src="images/PatrickBarnett.jpg" width="200">
+<img src="images/Patrick.jpg" width="200">
 </div>
 <div class="textfull" markdown="1">
 Patrick received a BS in Chemistry at the University of Central Missouri in 2011. His undergraduate research focused on the development of an electrochemical 
@@ -135,7 +135,7 @@ pyroxenes and amphiboles in the subduction process and magma generation.
 <br>
 <h3>Sasithorn (May) Chornkrathok, MSc Student</h3>
 <div class="floatleft">
-<img src="images/person.png" width="200">
+<img src="images/May.jpg" width="200">
 </div>
 <div class="textfull" markdown="1">
 May obtained a B.Sc. degree in Geology at Chulalongkorn University in Thailand. She is a recipient of prestigious Development and Promotion of Science 
@@ -162,7 +162,7 @@ of Ni and Co phosphides in planetary cores.
 
 <h3>Mario Williamson, PX^2 Engineering Support</h3>
 <div class="floatleft">
-<img src="images/person.png" width="200">
+<img src="Mario.jpg" width="200">
 </div>
 <div class="clear"> </div>
 <br>
