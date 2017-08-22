@@ -82,7 +82,7 @@ The HIGP Mineral Physics lab is well equipped for sample preparation in mineral 
 
 <h3><a name="rsl"></a>High Pressue and Temperature Raman Spectroscopy Lab</h3>
 <div class="floatright">
-<img src="images/RamanLab.jpg" width="350">
+<img src="images/Raman.jpg" width="350">
 </div>
 
 
