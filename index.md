@@ -15,7 +15,7 @@ active: home
 </script>
 
 <div>
-<img class="left" width="675" src="images/Group.jpg">
+<img class="left" width="670" src="images/Group.jpg">
 </div>
 
 
@@ -27,6 +27,18 @@ Our research interests are focused mainly on understanding the effects of extrem
 properties of materials in the context of deep Earth geophysics and materials science.
 </div>
 </div>
+
+<div class="splitleft">
+<div class="box2">
+<h2 Have you ever wondered:>
+  * How to turn a chocolate bar in to a diamond?
+  * What crystalline phases are present in potato chips?
+  * Why is it hard to skate on ice when the temperature is too low?
+  * How to determine mineral compositions of human teeth or kidney stone?
+<h2 We answer similar questions in our research every day - you should join us!!!>
+</div>
+</div>
+
 
 
 
