@@ -76,7 +76,6 @@ The HIGP Mineral Physics lab is well equipped for sample preparation in mineral 
  An existing gas loading system is being modified for visual and optical access to the high pressure chamber 
  for more reproducible and reliable gas loading and will be ready for use by our group in the near future.
 </div>
-
 <div class="clear"> </div>
 <hl>
 
@@ -84,7 +83,6 @@ The HIGP Mineral Physics lab is well equipped for sample preparation in mineral 
 <div class="floatright">
 <img src="images/Raman.jpg" width="350">
 </div>
-
 
 <div class="textfull" markdown="1">
 HIGP spectroscopy lab houses custom Princeton Instruments micro-Raman system based on Acton SP2360 imaging spectrograph, 
@@ -96,7 +94,6 @@ The system is also be used for laser-cutting of diamond anvil cell gaskets.
 <hl>
 
 <h3><a name="xal"></a>X-ray Atlas Diffraction Lab</h3>
-
 <div class="floatleft">
 <img src="images/advance_400.JPG" width="350">
 </div>
@@ -108,6 +105,8 @@ crystal instrument and D8 Advance high resolution powder diffractometer. Designe
 a CuKa source and utilizes innovate optics allowing to switch between Bragg-Brentano and parallel beam geometries. The instrument is equipped with a TC Dome 
 heating stage capable of reaching 1400C.
 </div>
+<div class="clear"></div>
+<hl>
 
 <div class="floatright">
 <img src="images/venture_400.JPG" width="350">
@@ -120,9 +119,7 @@ capabilities including (1) motorized XYZ stage as an alternative heavy-duty samp
 optics Raman spectrometer for ruby fluorescence measurements and (3) photodiode detector integrated into the X-ray beam stop assembly, 
 which can be utilized for automated X-ray absorption/transmission scanning during diamond anvil cell experiments.
 </div>
-
 <div class="clear"></div>
-
 <hl>
 
 <h3><a name="rsl"></a>POST 833 Mineral Physics Computer Lab</h3>
@@ -136,7 +133,6 @@ Mineral physics research involves extensive usage of computations. Analysis of e
 commercial or custom computer codes. We often combine experiments with quantum mechanical simulations or geophysical modeling. 
 POST 833 dedicated Mineral Physics Computer Lab serves these purposes. The lab is equipped with 7 shared access Windows workstations,
 houses a Network Associated Storage (NAS) server, and offers modern teleconferencing capabilities. 
-
 </div>
 <div class="clear"></div>
 <hl>
@@ -161,4 +157,4 @@ users for the 2015-2 APS run. The progress of the development of laser heating H
 will rely on the availability of X-ray Atlas as a prototyping and training instrument in Hawaii.
 </div>
 <div class="clear"></div>
-
+<hl>
