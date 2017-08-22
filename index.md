@@ -15,15 +15,15 @@ active: home
 </script>
 
 <div class="splitleft">
-<img class="left" width="400" src="images/Przemek.jpg">
+<img class="left" width="400" src="images/Group.jpg">
 </div>
 
 
 
 <div class="splitright">
 <div class="box2">
-I am a Professor of Mineral Physics in the Hawaii Institute of Geophysics and Planetology at the University of Hawaii at Manoa.
-My research interests are focused mainly on understanding the effects of extreme pressure and temperature on the structure and 
+We are a Mineral Physics and Extreme Materials Science Research group at the Hawaii Institute of Geophysics and Planetology, University of Hawaii at Manoa.
+Our research interests are focused mainly on understanding the effects of extreme pressure and temperature on the structure and 
 properties of materials in the context of deep Earth geophysics and materials science.
 </div>
 </div>
