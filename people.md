@@ -162,7 +162,7 @@ of Ni and Co phosphides in planetary cores.
 
 <h3>Mario Williamson, PX^2 Engineering Support</h3>
 <div class="floatleft">
-<img src="Mario.jpg" width="200">
+<img src="images/Mario.jpg" width="200">
 </div>
 <div class="clear"> </div>
 <br>
