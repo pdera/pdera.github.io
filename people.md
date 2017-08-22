@@ -102,7 +102,8 @@ Yi’s thesis research is focused on understanding metastable polymorphism in py
 subduction zone modeling. Yi uses advanced crystallographic methods and synchrotron diffraction, as well as DFT 
 calculations and phase equilibria modeling to study previously unknown discontinuous transformations in natural 
 mantle pyroxenes and model synthetic end-members. Within this project we collaborate with several other CDAC-supported 
-groups, including Princeton University, University of Arizona and Northwestern University.  
+groups, including Princeton University, University of Arizona and Northwestern University. Yi is a recipient of the prestigious 
+continuing graduate student Bullard Fellowship for 2017. 
 </div>
 
 <div class="clear"> </div>
@@ -127,7 +128,7 @@ including University of Arizona, Northwestern University and University of Alaba
 <img src="images/TommyYong.jpg" width="200">
 </div>
 <div class="textfull" markdown="1">
-Tommy did his undergraduate studies at the University of Arizona in Tucson. His thesis research focuses on understanding the role and fate of metastable 
+Tommy did his undergraduate studies at the University of Arizona in Tucson. Tommy is a recipient of the prestigious incoming graduate student Bullard Fellowship for 2017. His thesis research focuses on understanding the role and fate of metastable 
 pyroxenes and amphiboles in the subduction process and magma generation.
 </div>
 
