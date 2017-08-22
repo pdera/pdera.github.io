@@ -28,22 +28,6 @@ properties of materials in the context of deep Earth geophysics and materials sc
 </div>
 </div>
 
-<div class="clear"></div>
-
-<div class="splitleft">
-<div class="box2">
-<h2 Have you ever wondered:>
-  * How to turn a chocolate bar in to a diamond?
-  * What crystalline phases are present in potato chips?
-  * Why is it hard to skate on ice when the temperature is too low?
-  * How to determine mineral compositions of human teeth or kidney stone?
-<h2 We answer similar questions in our research every day - you should join us!!!>
-</div>
-</div>
-
-
-
-
 <div class="splitright">
 <div class="box1">
 <h2>News</h2>
