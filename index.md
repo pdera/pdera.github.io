@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: 
 active: home
 ---
 
@@ -15,7 +15,7 @@ active: home
 </script>
 
 <div>
-<img class="left" width="670" src="images/Group.jpg">
+<img class="left" width="680" src="images/Group.jpg">
 </div>
 
 
