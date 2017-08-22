@@ -26,6 +26,27 @@ students from other Universities.
 We constantly look for new students, so if you find our research interesting, please contact Przemek by email (pdera@hawaii.edu) to learn about 
 employment opportunities. 
 
+<h2><a name="rs"></a>Principal Investigator</h2>
+
+<h3>Prof. Przemyslaw Dera</h3>
+<div class="floatleft">
+<img src="images/Przemek.jpg" width="200">
+</div>
+<div class="textfull" markdown="1">
+Przemyslaw (Przemek) Dera is a Professor of Mineral Physics and Extreme Materials Science at the Hawaii Institute of Geophysics and Planetology, 
+University of Hawaii at Manoa in Honolulu. He obtained his Ph.D. in physical chemistry in 2000 from Adam Mickiewicz University in Poznan, Poland, 
+under tutelage of Prof. Andrzej Katrusiak. Prior to moving to Hawaii, he worked as research scientist at Carnegie Institution of Washington’s Geophysical Laboratory 
+(2000-2007) and University of Chicago’s Center for Advanced Radiation Sources (2007-2013).  Przemek has been closely involved in the activities of high-pressure 
+research community both within USA, as well as internationally.  He chaired the International Union of Crystallography Commission on High Pressure (2008-2014) 
+and served as member and vice-chair the Executive Committee of COMPRES, the Consortium for Materials Properties Research in Earth Sciences (2010-2013). 
+His main scientific interests include study of pressure-induced displacive phase transitions and spin crossover phenomena in materials, with particular emphasis 
+on minerals relevant to planetary interiors. Przemek is an Elected Fellow of the Mineralogical Society of America (2013) and was selected as Distinguished Lecturer for 
+COMPRES in 2015. He has authored and co-authored over 100 papers in scientific journals, 4 book chapters, and co-edited 4 books and journal special volumes.
+</div>
+<div class="clear"> </div>
+<br>
+
+
 <h2><a name="rs"></a>Research Scientists</h2>
 
 <h3>Dr. Dongzhou Zhang, PX^2 Beamline Scientist</h3>
