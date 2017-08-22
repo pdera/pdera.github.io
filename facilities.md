@@ -100,7 +100,7 @@ The system is also be used for laser-cutting of diamond anvil cell gaskets.
 
 <div class="textfull" markdown="1">
 X-ray Atlas Advanced X-ray Diffraction system is a state of the art instrument being developed within the 
-current NSF EAR IF project #1541516. The instrument is composed of two commercial X-ray diffractometers, Bruker D8 Venture single 
+current NSF EAR IF project 1541516. The instrument is composed of two commercial X-ray diffractometers, Bruker D8 Venture single 
 crystal instrument and D8 Advance high resolution powder diffractometer. Designed for analysis of bulk powder samples and thin films, the D8 Advance features 
 a CuKa source and utilizes innovate optics allowing to switch between Bragg-Brentano and parallel beam geometries. The instrument is equipped with a TC Dome 
 heating stage capable of reaching 1400C.
@@ -122,7 +122,7 @@ which can be utilized for automated X-ray absorption/transmission scanning durin
 <div class="clear"></div>
 <hl>
 
-<h3><a name="rsl"></a>POST 833 Mineral Physics Computer Lab</h3>
+<h3><a name="mpcl"></a>POST 833 Mineral Physics Computer Lab</h3>
 <div class="floatright">
 <img src="images/POST833.jpg" width="350">
 </div>
