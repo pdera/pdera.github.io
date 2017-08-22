@@ -107,24 +107,23 @@ current NSF EAR IF project #1541516. The instrument is composed of two commercia
 crystal instrument and D8 Advance high resolution powder diffractometer. Designed for analysis of bulk powder samples and thin films, the D8 Advance features 
 a CuKa source and utilizes innovate optics allowing to switch between Bragg-Brentano and parallel beam geometries. The instrument is equipped with a TC Dome 
 heating stage capable of reaching 1400C.
+</div>
 
 <div class="floatright">
 <img src="images/venture_400.JPG" width="350">
 </div>
+
+<div class="textfull" markdown="1">
 The D8 Venture is equipped with high-brilliance Incoatec IuS 3.0 AgKa microfocus source and Helios focusing optics, and innovative Photon II CPAD detector.
 The instrument also features Oxford Cryostream 800+ high/low temperature device. D8 Venture diffractometer is being customized with a range of new unique 
 capabilities including (1) motorized XYZ stage as an alternative heavy-duty sample mounting platform for HPHT diamond anvil cells (2) fiber 
 optics Raman spectrometer for ruby fluorescence measurements and (3) photodiode detector integrated into the X-ray beam stop assembly, 
 which can be utilized for automated X-ray absorption/transmission scanning during diamond anvil cell experiments.
-
-
-
-
 </div>
+
 <div class="clear"></div>
 
 <hl>
-
 
 <h3><a name="rsl"></a>POST 833 Mineral Physics Computer Lab</h3>
 <div class="floatright">
