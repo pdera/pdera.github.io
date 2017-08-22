@@ -28,6 +28,8 @@ properties of materials in the context of deep Earth geophysics and materials sc
 </div>
 </div>
 
+<div class="clear"></div>
+
 <div class="splitleft">
 <div class="box2">
 <h2 Have you ever wondered:>
@@ -38,8 +40,6 @@ properties of materials in the context of deep Earth geophysics and materials sc
 <h2 We answer similar questions in our research every day - you should join us!!!>
 </div>
 </div>
-
-
 
 
 
