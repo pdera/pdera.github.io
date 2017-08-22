@@ -15,7 +15,7 @@ active: home
 </script>
 
 <div>
-<img class="left" width="670" src="images/Group.jpg">
+<img class="left" width="675" src="images/Group.jpg">
 </div>
 
 
