@@ -6,6 +6,8 @@ active: people
 <div class="floatright">
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
+[Principal Investigator](#pi)
+<br>
 [Research Scientists](#rs)
 <br>
 [Postdoctoral Fellows](#pf)
@@ -26,9 +28,9 @@ students from other Universities.
 We constantly look for new students, so if you find our research interesting, please contact Przemek by email (pdera@hawaii.edu) to learn about 
 employment opportunities. 
 
-<h2><a name="rs"></a>Principal Investigator</h2>
+<h2><a name="pi"></a>Principal Investigator</h2>
 
-<h3>Prof. Przemyslaw Dera</h3>
+<h3>Dr. Przemyslaw Dera</h3>
 <div class="floatleft">
 <img src="images/Przemek.jpg" width="200">
 </div>
